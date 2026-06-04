@@ -1,0 +1,1726 @@
+<!DOCTYPE html>
+<html lang="ru" lang="ru">
+    <head >
+
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+
+
+            <link rel="apple-touch-icon" sizes="180x180" href="/build/images/mosvolonter_new/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/build/images/mosvolonter_new/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/build/images/mosvolonter_new/favicon/favicon-16x16.png">
+    <link rel="manifest" href="/build/images/mosvolonter_new/favicon/site.webmanifest">
+    <link rel="mask-icon" href="/build/images/mosvolonter_new/favicon/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="shortcut icon" type="image/svg+xml" sizes="32x32" href="/build/images/mosvolonter_new/favicon/favicon.svg">
+    <link rel="shortcut icon" type="image/x-icon" sizes="16x16" href="/build/images/mosvolonter_new/favicon/favicon.ico">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="msapplication-config" content="/build/images/mosvolonter_new/favicon/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+    <meta name="api-key" content="ba3fd996-7f79-4d90-a73e-3e8d0cef389a">
+        <title>«Мосволонтёр»: присоединяйтесь к добровольческому движению Москвы</title>
+        <meta name="description" content="&laquo;Мосволонтёр&raquo; &mdash; это платформа, где вы можете найти интересные волонтёрские проекты в Москве и стать частью сообщества активных горожан. Выберите события по душе, помогите нуждающимся и внесите свой вклад в развитие города." />
+<meta name="keywords" content="мосволонтер, мосволонтер официальный сайт, волонтерство, волонтерство в москве, волонтеры, мос волонтер ру" />
+<meta name="twitter:site_name" content="mosvolonter.ru" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="&laquo;Мосволонтёр&raquo;: присоединяйтесь к добровольческому движению Москвы" />
+<meta property="og:description" content="&laquo;Мосволонтёр&raquo; &mdash; это платформа, где вы можете найти интересные волонтёрские проекты в Москве и стать частью сообщества активных горожан. Выберите события по душе, помогите нуждающимся и внесите свой вклад в развитие города." />
+<meta property="og:url" content="https://mosvolonter.ru/" />
+<meta property="og:canonical" content="https://mosvolonter.ru/" />
+<meta property="og:site_name" content="mosvolonter.ru" />
+<meta property="og:locale" content="ru_RU" />
+
+
+                <meta property="og:image"   content="https://mosvolonter.ru/build/images/mosvolonter_new/open-graph.png"/>
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:creator" content="@mosvolonter"/>
+
+
+                        <link rel="stylesheet" href="/bundles/sonatapage/frontend.css" media="all">
+        
+    <link rel="stylesheet" href="/build/mosvolonter_new_css_head.09bde32d.css">
+    
+
+            
+    <script src="/build/runtime.6b699bae.js"></script><script src="/build/mosvolonter_new_app_head.7cb01dfd.js"></script>
+            
+
+    <!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (m, e, t, r, i, k, a) {
+        m[i] = m[i] || function () {
+            (m[i].a = m[i].a || []).push(arguments)
+        };
+        m[i].l = 1 * new Date();
+        k = e.createElement(t), a = e.getElementsByTagName(t)[0], k.async = 1, k.src = r, a.parentNode.insertBefore(k, a)
+    })
+    (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+    ym(88948905, "init",
+
+        {clickmap: true, trackLinks: true, accurateTrackBounce: true, webvisor: true}
+    );
+</script>
+<noscript>
+    <div><img src="https://mc.yandex.ru/watch/88948905" style="position:absolute; left:-9999px;" alt=""/></div>
+</noscript>
+<!-- /Yandex.Metrika counter -->
+
+<style>
+    .cookie-bar {
+        position: fixed;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        z-index: 9999;
+        bottom: 20px;
+        right: 20px;
+        width: calc(100% - 40px);
+        line-height: 1.3;
+        opacity: 0;
+        transform: translateY(-20px);
+        transition-property: opacity, transform;
+        transition-duration: 0.6s;
+        transition-timing-function: ease-in-out;
+        font-family: "Montserrat", sans-serif;
+        color: #787878;
+    }
+    .cookie-bar-container {
+        position: relative;
+        display: flex;
+        padding: 16px 20px;
+        background-color: #F2F2FF;
+        border: 2px solid #ccc;
+        border-radius: 12px;
+        max-width: 978px;
+        width: calc(100% - 40px);
+    }
+    .cookie-bar p {
+        margin: 0 0 1.2em;
+    }
+    .cookie-bar p:last-child {
+        margin: 0;
+    }
+    .cookie-bar a:link, .cookie-bar a:visited {
+        border-bottom: 1px solid transparent;
+        color: #4242B8;
+        font-weight: 500;
+        text-decoration: none;
+    }
+    .cookie-bar a:hover {
+        border-bottom-color: inherit;
+    }
+    .cookie-bar.active {
+        transform: translateY(0);
+        opacity: 1;
+        pointer-events: auto;
+    }
+    .cookie-bar_btn {
+        padding: 12px;
+        background: #fff;
+        border-radius: 8px;
+        height: 40px;
+        font-size: 14px;
+        border: 1px solid #ccc;
+        cursor: pointer;
+        line-height: 1em;
+        transition: background-color 0.2s ease-in-out;
+    }
+    .cookie-bar_btn:hover {
+        opacity:.7;
+        text-decoration:none
+    }
+
+    @media (max-width: 767px) {
+        .cookie-bar-container {
+            flex-direction: column;
+        }
+        .cookie-bar p:last-child {
+            margin: 0 0 1.2em;
+        }
+    }
+</style>
+<script type="text/javascript">
+    (function() {
+        const setupCookieBar = () => {
+            const lang = (document.querySelector('html').hasAttribute('lang')) ? document.querySelector('html').getAttribute('lang') : 'en';
+            const languages = {
+                en: {
+                    text: 'By continuing to use the site you consent to the processing of personal data in accordance with the <a href="https://www.mos.ru/legal/rules/">privacy policy</a>',
+                    btnOk: 'Ok',
+                    btnDismiss: 'Disallow optional cookies',
+                    btnSettings: 'Customize',
+                    settingsText: 'If you prefer, you can select which types of cookies you feel acceptable:',
+                    checkboxLabelTech: 'Technical cookies (mandatory)',
+                    checkboxLabelElse: 'Session statistics cookies',
+                    settingsOk: 'Save my preferences',
+                },
+                ru: {
+                    text: 'Продолжая пользоваться порталом, вы&nbsp;соглашаетесь на&nbsp;обработку файлов cookie с&nbsp;использованием метрических программ. Это поможет сделать портал еще более удобным и&nbsp;полезным. <a target="_blank" href="https://www.mos.ru/legal/rules/">Подробнее</a>',
+                    btnOk: 'Принять',
+                    btnDismiss: 'Отключить необязательные cookies',
+                    btnSettings: 'Настроить',
+                    settingsText: 'Если вы предпочитаете, вы можете выбрать, какие типы файлов cookie вы считаете приемлемыми:',
+                    checkboxLabelTech: 'Технические файлы cookie (обязательно)',
+                    checkboxLabelElse: 'Файлы cookie для отслеживания',
+                    settingsOk: 'Сохраните мои предпочтения',
+                }
+            };
+            if (window.cookieMessage) {
+                languages[lang].text = window.cookieMessage;
+            }
+            let startup = false;
+            let shutup = false;
+            let btnOkEl;
+            let buttonDismissEl;
+            let buttonSettingsEl;
+            let buttonSettingsApply;
+
+            const setCookie = (name, value) => {
+                const exdays = 30;
+
+                var exdate = new Date();
+                exdate.setDate(exdate.getDate() + parseInt(exdays));
+                var cValue = encodeURI(value) + ((exdays === null) ? '' : '; expires=' + exdate.toUTCString() + ';path=/');
+                document.cookie = name + '=' + cValue;
+            }
+
+            const hostName = window.location.hostname.split('.');
+            const domainName = `.${hostName[hostName.length - 2]}.${hostName[hostName.length - 1]}`;
+            const getCookie = (name) => {
+                return document.cookie.split(';').some(c => {
+                    return c.trim().startsWith(name + '=');
+                });
+            }
+            const removeСookie = (name, path, domain) => {
+                if (getCookie(name)) {
+                    document.cookie = name + '=' +
+                        ((path) ? ';path=' + path : '') +
+                        ((domain) ? ';domain=' + domain : '') +
+                        ';expires=Thu, 01 Jan 1970 00:00:01 GMT';
+                }
+            }
+
+            const removeCookies = () => {
+                // Clear cookies
+                document.cookie.split(';').forEach((cookie) => {
+                    let cookieName = cookie.slice(0, cookie.indexOf('='));
+                    removeСookie(cookieName.trim(), '/', domainName);
+                })
+                // Clear localStorage
+                if (localStorage !== null) {
+                    localStorage.clear();
+                }
+            }
+
+            const getCookieValue = (cookieName) => {
+                const regEx = new RegExp(`(;)?${cookieName}=([^;]*);?`);
+                const cookieValue = document.cookie.match(regEx);
+
+                if (cookieValue == null) {
+                    return undefined;
+                } else {
+                    return decodeURI(cookieValue[2]);
+                }
+            }
+
+            const currentCookieSelection = getCookieValue('cookiebar');
+
+            if (currentCookieSelection == 'CookieDisallowed') {
+                removeCookies();
+                setCookie('cookiebar', 'CookieDisallowed');
+            }
+
+            if (currentCookieSelection !== undefined) {
+                return;
+            }
+
+            const getURLParameter = (name) => {
+                const set = scriptPath.split(name + '=');
+                if (set[1]) {
+                    return set[1].split(/[&?]+/)[0];
+                } else {
+                    return false;
+                }
+            }
+
+            const initCookieBar = () => {
+                if (document.cookie.length > 0 || (window.localStorage !== null && window.localStorage.length > 0)) {
+                    var accepted = getCookieValue('cookiebar');
+                    if (accepted === undefined) {
+                        startup = true;
+                    } else {
+                        shutup = true;
+                    }
+                } else {
+                    startup = false;
+                }
+
+                if (startup === true) {
+                    startCookieBar();
+                }
+            }
+
+            const renderTemplate = () => {
+                const cookieDivWrap = document.createElement('div');
+                cookieDivWrap.classList.add('cookie-bar');
+                const cookieDiv = document.createElement('div');
+                cookieDiv.classList.add('cookie-bar-container');
+
+                const textParagraphDiv = document.createElement('div');
+                const textParagraph = document.createElement('p');
+                textParagraph.innerHTML = languages[lang].text;
+                // btns
+                const btnOk = document.createElement('button');
+                btnOk.className = 'cookie-bar_btn cookie-bar_btn-ok';
+                btnOk.innerHTML = languages[lang].btnOk;
+
+                // append all items
+                textParagraphDiv.append(textParagraph)
+                cookieDiv.append(textParagraphDiv, btnOk)
+                cookieDivWrap.append(cookieDiv)
+
+                document.body.append(cookieDivWrap);
+
+                // btns
+                cookieDivEl = document.querySelector('.cookie-bar');
+                buttonOkEl = document.querySelector('.cookie-bar_btn-ok');
+
+                showCookiebar();
+                setEventListeners();
+            }
+
+            const showCookiebar = () => {
+                const timer = setTimeout(() => {
+                    cookieDivEl.classList.add('active')
+                    clearTimeout(timer);
+                }, 500);
+            }
+
+            const hideCookiebar = () => {
+                cookieDivEl.classList.remove('active');
+                const timer = setTimeout(() => {
+                    cookieDivEl.remove();
+                    clearTimeout(timer);
+                }, 500);
+
+            }
+
+            // btn click
+            const setEventListeners = () => {
+                if (buttonOkEl) {
+                    buttonOkEl.addEventListener('click', () => {
+                        setCookie('cookiebar', 'CookieAllowed');
+                        hideCookiebar();
+                    });
+                }
+            }
+
+            const startCookieBar = () => {
+                renderTemplate();
+            }
+
+            initCookieBar();
+        }
+
+        // start
+        document.addEventListener('DOMContentLoaded', setupCookieBar);
+    }());
+</script>
+
+<!-- underconstruction -->
+<!-- <script type="text/javascript">
+    window.addEventListener('load', function() {
+        let cookie = (document.cookie.match('(^|; )' + encodeURIComponent('underconstruction') + '=([^;]+)') || []).pop() || null;
+        let div = document.createElement('div');
+        if (!cookie) {
+            let close = document.createElement('div');
+            let text = document.createElement('div');
+            text.classList.add('underconstruction_text');
+            close.classList.add('underconstruction_close');
+            text.innerHTML = '<span>На сайте проводятся технические работы, поэтому он может работать нестабильно. Приносим извинения за временные неудобства.</span>';
+            div.classList.add('underconstruction');
+            div.append(text);
+            div.append(close);
+            if (document.querySelector('.mos-header')) {
+                document.querySelector('.mos-header').prepend(div);
+                document.querySelector('.js-page-wrap > header').style.height = `${document.querySelector('.mos-header').getBoundingClientRect().height}px`;
+            }
+            if (document.querySelector('.mos-header_burgerMenu')) {
+                document.querySelector('.mos-header_burgerMenu').style.top = `${document.querySelector('.mos-header').getBoundingClientRect().height}px`
+            }
+            document.documentElement.style.setProperty('--scroll-padding-top', document.querySelector('.mos-header').getBoundingClientRect().height + 'px');
+        }
+        if (document.querySelector('.underconstruction_close')) {
+            document.querySelector('.underconstruction_close').addEventListener('click', () => {
+                div.classList.add('hidden');
+                document.querySelector('.js-page-wrap > header').removeAttribute('style');
+                document.querySelector('.mos-header_burgerMenu').removeAttribute('style');
+                const d = new Date();
+                d.setTime(d.getTime() + (1 * 24 * 60 * 60 * 1000));
+                let expires = "expires=" + d.toUTCString();
+                document.cookie = "underconstruction=true;" + expires + ";path=/";
+            });
+        }
+    });
+</script>
+<style>
+    .underconstruction {
+        background-color: #ffe9de;
+        display: block;
+        margin-bottom: 12px;
+        margin-top: -12px;
+        padding: 20px 36px;
+        position: relative;
+        @media all and (max-width: 1300px) {
+            padding: 16px 60px 16px 16px;
+        }
+        @media all and (max-width: 768px) {
+            padding: 12px 60px 12px 12px;
+        }
+    }
+
+    .underconstruction_text {
+        margin: auto;
+        max-width: 100%;
+        text-align: center;
+        width: 1600px;
+        @media all and (max-width: 1300px) {
+            text-align: left;
+            display: flex;
+            flex-flow: row nowrap;
+        }
+        @media all and (max-width: 768px) {
+            flex-wrap: wrap;
+            font-size: 14px;
+        }
+    }
+
+    .underconstruction_text span {
+        @media all and (max-width: 1300px) {
+            width: calc(100% - 30px);
+        }
+        @media all and (max-width: 768px) {
+            width: 100%;
+        }
+    }
+
+    .underconstruction_text:before {
+        background: url("data:image/svg+xml;charset=utf-8,%3Csvg width='20' height='24' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Ccircle cx='10' cy='12' r='10' fill='%23F27500'/%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M8.563 6.063h2.874L11 12.313H9l-.437-6.25Zm-.213 9.774a1.65 1.65 0 1 1 3.3 0 1.65 1.65 0 0 1-3.3 0Z' fill='%23fff'/%3E%3C/svg%3E") 50% 50% no-repeat;
+        content: "";
+        display: inline-block;
+        height: 24px;
+        margin-right: 10px;
+        margin-top: -.275em;
+        vertical-align: middle;
+        width: 20px;
+        @media all and (max-width: 1300px) {
+            margin-top: 0;
+            display: block;
+        }
+        @media all and (max-width: 768px) {
+            margin-bottom: 10px;
+        }
+    }
+
+    .underconstruction_close {
+        background: url("data:image/svg+xml;charset=utf-8,%3Csvg width='20' height='20' fill='%23242424' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='m10 11.103 5.572 5.571 1.105-1.104-5.572-5.572 5.572-5.572-1.105-1.105L10 8.893 4.303 3.195 3.198 4.3l5.697 5.698-5.697 5.697L4.303 16.8 10 11.103Z'/%3E%3C/svg%3E") 50% 50% no-repeat;
+        cursor: pointer;
+        height: 20px;
+        position: absolute;
+        right: 20px;
+        top: 22px;
+        transition: .3s ease-in-out 0s;
+        transition-property: background;
+        width: 20px;
+        will-change: background
+    }
+
+    .underconstruction_close:hover {
+        background: url("data:image/svg+xml;charset=utf-8,%3Csvg width='20' height='20' fill='%235050CC' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='m10 11.103 5.572 5.571 1.105-1.104-5.572-5.572 5.572-5.572-1.105-1.105L10 8.893 4.303 3.195 3.198 4.3l5.697 5.698-5.697 5.697L4.303 16.8 10 11.103Z'/%3E%3C/svg%3E") 50% 50% no-repeat
+    }
+</style> -->
+<!-- /underconstruction -->
+
+
+
+                    <link rel="canonical" href="https://mosvolonter.ru/">
+            </head>
+
+<body class="sonata-bc">
+
+    
+    <div class='mos-wrap js-page-wrap'>
+            
+
+<header>
+    <div class="mos-header">
+        <div class="mos-base_container">
+            <div class="mos-header_wrap">
+                <div class="mos-header_left">
+                    <?xml encoding="UTF-8"><a href="/"><svg width="94" height="48" viewbox="0 0 94 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M42.7666 20.8553C43.056 20.8553 43.2529 20.9319 43.3815 21.065C43.5101 21.198 43.5825 21.4076 43.5825 21.714C43.5825 22.0204 43.5101 22.2301 43.3815 22.3631C43.2529 22.4962 43.056 22.5728 42.7666 22.5728H39.8807V20.8593H42.7666V20.8553ZM39.8807 27.1405V25.1409H42.9153C43.2529 25.1409 43.482 25.2296 43.6347 25.3828C43.7835 25.54 43.8679 25.7859 43.8679 26.1407C43.8679 26.4955 43.7835 26.7414 43.6347 26.8986C43.486 27.0559 43.2529 27.1405 42.9153 27.1405H39.8807ZM42.5656 18.2832C43.2368 18.2832 43.8196 18.3598 44.326 18.5089C44.8285 18.6581 45.2384 18.8718 45.5439 19.15C45.8413 19.4201 46.0664 19.7224 46.2111 20.0611C46.3558 20.3957 46.4281 20.7586 46.4281 21.1416C46.4281 21.452 46.3839 21.7463 46.2915 22.0245C46.199 22.3027 46.0543 22.5566 45.8654 22.7864C45.6685 23.0283 45.3952 23.2219 45.0535 23.363C44.8646 23.4436 44.6597 23.5041 44.4386 23.5484V23.6855C45.0817 23.7984 45.6002 24.0282 45.978 24.3829C46.4764 24.8546 46.7175 25.5239 46.7175 26.3745C46.7175 26.7374 46.6773 27.072 46.6009 27.3824C46.5206 27.7009 46.3759 28.0073 46.1789 28.2976C45.9739 28.5919 45.7087 28.8419 45.3952 29.0434C45.0777 29.245 44.6677 29.4063 44.1814 29.5232C43.691 29.6442 43.1243 29.7046 42.4933 29.7046H37.0351V18.2751H42.5696L42.5656 18.2832Z" fill="#5151C7"></path>
+<path d="M16.1992 0C16.9749 0 18.1003 0.0886997 19.3905 0.483795C20.1582 0.721658 21.9226 1.28205 23.5303 2.84227C25.1702 4.43071 25.7851 6.21267 26.2835 7.66404C26.4403 8.11961 26.6171 8.8856 26.9708 10.4216C27.5415 12.897 27.6822 14.0138 28.3454 16.6222C28.4057 16.852 28.5182 17.3076 28.6629 17.8236C29.6878 21.5448 30.5198 23.0606 31.0986 24.8869C32.1878 28.3219 31.9024 31.3415 31.7859 32.4663C31.4804 35.4053 30.556 37.5058 29.72 39.3563C28.8237 41.3439 27.2361 44.2829 24.4467 47.3388C21.9829 47.7581 19.073 48 15.954 48C12.8351 48 9.92513 47.7581 7.46132 47.3388C4.67598 44.2829 3.08435 41.3439 2.18806 39.3563C1.35205 37.5058 0.427621 35.4053 0.122157 32.4663C0.00559892 31.3455 -0.279769 28.3219 0.80945 24.8869C1.38822 23.0606 2.22423 21.5407 3.24512 17.8236C3.38982 17.3035 3.50235 16.852 3.56264 16.6222C4.22582 14.0138 4.3665 12.897 4.93723 10.4216C5.29092 8.8856 5.46777 8.11961 5.62452 7.66404C6.12291 6.21267 6.73786 4.43071 8.37772 2.84227C9.99748 1.28205 11.7619 0.717626 12.5296 0.483795C13.8198 0.0886997 14.9452 0 15.7209 0H16.1992ZM15.946 44.5691C23.7675 44.5691 27.6742 41.0415 27.6742 33.9903C27.7465 32.1156 27.7184 30.5432 27.6661 29.366C27.5978 27.7937 27.5616 27.0075 27.3727 25.911C27.1195 24.4717 26.7618 23.3953 26.183 21.6899C25.6605 20.1458 25.2345 19.0895 25.0858 18.7025C24.4507 17.0576 23.7707 14.4169 23.7626 10.4216C23.7626 5.72081 21.163 3.42684 15.95 3.42684C10.737 3.42684 8.14862 5.77726 8.14862 10.4781C8.13656 14.4734 7.46936 17.0576 6.83432 18.7025C6.68561 19.0855 6.25957 20.1458 5.73706 21.6899C5.15829 23.3953 4.79656 24.4717 4.54736 25.911C4.35444 27.0035 4.32228 27.7937 4.25396 29.366C4.2017 30.5432 4.17357 32.1156 4.24592 33.9903C4.24592 41.0415 8.14862 44.5691 15.946 44.5691Z" fill="#5151C7"></path>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M58.2969 9.57868C58.739 9.11505 58.9721 8.4055 58.9721 7.42986C58.9721 6.45421 58.739 5.74465 58.2969 5.28102C57.8548 4.81739 57.1876 4.57549 56.2591 4.57549C55.3307 4.57549 54.6635 4.81739 54.2254 5.28102C53.7873 5.74465 53.5542 6.45421 53.5542 7.42986C53.5542 8.4055 53.7873 9.11505 54.2254 9.57868C54.6635 10.0423 55.3347 10.2842 56.2551 10.2842C57.1755 10.2842 57.8508 10.0423 58.2929 9.57868H58.2969ZM53.2929 12.3726C52.4449 11.8606 51.7978 11.1752 51.3597 10.3165C50.9216 9.45774 50.7045 8.49822 50.7045 7.43388C50.7045 6.63966 50.8331 5.89383 51.0904 5.20039C51.3476 4.50696 51.7053 3.89819 52.1716 3.38215C52.6418 2.86207 53.2246 2.45488 53.932 2.16058C54.6354 1.86627 55.4151 1.7171 56.2591 1.7171C57.1032 1.7171 57.8829 1.86627 58.5863 2.16058C59.2897 2.45488 59.8805 2.86207 60.3467 3.38215C60.813 3.89819 61.1747 4.50293 61.4279 5.20039C61.6851 5.89383 61.8138 6.63563 61.8138 7.43388C61.8138 8.49822 61.5967 9.46178 61.1586 10.3165C60.7245 11.1712 60.0815 11.8565 59.2334 12.3685C58.3813 12.8846 57.3886 13.1386 56.2632 13.1386C55.1378 13.1386 54.149 12.8846 53.2929 12.3726Z" fill="#5151C7"></path>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M55.4475 26.1527C55.8896 25.6891 56.1227 24.9795 56.1227 24.0039C56.1227 23.0282 55.8896 22.3187 55.4475 21.855C55.0054 21.3914 54.3382 21.1495 53.4097 21.1495C52.4813 21.1495 51.8141 21.3914 51.376 21.855C50.9379 22.3187 50.7048 23.0282 50.7048 24.0039C50.7048 24.9795 50.9379 25.6891 51.376 26.1527C51.8141 26.6164 52.4853 26.8582 53.4057 26.8582C54.3261 26.8582 55.0014 26.6164 55.4435 26.1527H55.4475ZM50.4435 28.9466C49.5955 28.4346 48.9484 27.7492 48.5103 26.8905C48.0722 26.0318 47.8551 25.0723 47.8551 24.0079C47.8551 23.2137 47.9837 22.4679 48.241 21.7744C48.4982 21.081 48.8559 20.4722 49.3222 19.9562C49.7924 19.4361 50.3752 19.0289 51.0826 18.7346C51.786 18.4403 52.5657 18.2911 53.4097 18.2911C54.2538 18.2911 55.0335 18.4403 55.7369 18.7346C56.4403 19.0289 57.0311 19.4361 57.4973 19.9562C57.9636 20.4722 58.3253 21.077 58.5785 21.7744C58.8357 22.4679 58.9644 23.2097 58.9644 24.0079C58.9644 25.0723 58.7473 26.0358 58.3092 26.8905C57.8751 27.7452 57.2321 28.4306 56.384 28.9426C55.5319 29.4586 54.5392 29.7126 53.4138 29.7126C52.2884 29.7126 51.2996 29.4586 50.4435 28.9466Z" fill="#5151C7"></path>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M79.5146 26.1527C79.9567 25.6891 80.1899 24.9795 80.1899 24.0039C80.1899 23.0282 79.9567 22.3187 79.5146 21.855C79.0725 21.3914 78.4053 21.1495 77.4769 21.1495C76.5484 21.1495 75.8812 21.3914 75.4431 21.855C75.005 22.3187 74.7719 23.0282 74.7719 24.0039C74.7719 24.9795 75.005 25.6891 75.4431 26.1527C75.8812 26.6164 76.5524 26.8582 77.4728 26.8582C78.3932 26.8582 79.0685 26.6164 79.5106 26.1527H79.5146ZM74.5106 28.9466C73.6626 28.4346 73.0155 27.7492 72.5774 26.8905C72.1393 26.0318 71.9222 25.0723 71.9222 24.0079C71.9222 23.2137 72.0509 22.4679 72.3081 21.7744C72.5653 21.081 72.923 20.4722 73.3893 19.9562C73.8595 19.4361 74.4423 19.0289 75.1497 18.7346C75.8531 18.4403 76.6328 18.2911 77.4769 18.2911C78.3209 18.2911 79.1006 18.4403 79.804 18.7346C80.5074 19.0289 81.0982 19.4361 81.5644 19.9562C82.0307 20.4722 82.3924 21.077 82.6456 21.7744C82.9029 22.4679 83.0315 23.2097 83.0315 24.0079C83.0315 25.0723 82.8144 26.0358 82.3763 26.8905C81.9423 27.7452 81.2992 28.4306 80.4511 28.9426C79.599 29.4586 78.6063 29.7126 77.4809 29.7126C76.3555 29.7126 75.3667 29.4586 74.5106 28.9466Z" fill="#5151C7"></path>
+<path d="M61.8178 18.2837V20.3801C61.8178 20.9163 61.8178 21.38 61.8017 21.771C61.7897 22.1661 61.7776 22.5854 61.7535 23.041C61.7334 23.4925 61.6972 23.8795 61.649 24.2061C61.6008 24.5286 61.5405 24.8552 61.4681 25.1898C61.3918 25.5244 61.2993 25.7986 61.1868 26.0163C61.0743 26.234 60.9416 26.4356 60.7849 26.6129C60.6321 26.7944 60.4513 26.9234 60.2423 27.0121C60.0292 27.1008 59.7961 27.1411 59.5389 27.1411V29.7132C60.194 29.7132 60.7849 29.6245 61.3074 29.4471C61.8299 29.2697 62.268 29.0359 62.6176 28.7537C62.9673 28.4715 63.2768 28.0925 63.53 27.6249C63.7873 27.1572 63.9842 26.6895 64.1249 26.234C64.2655 25.7784 64.3781 25.218 64.4585 24.5609C64.5389 23.9037 64.5911 23.307 64.6192 22.7668C64.6474 22.2266 64.6594 21.5896 64.6594 20.8558H67.7945V29.7132H70.6441V18.2837H61.8218H61.8178Z" fill="#5151C7"></path>
+<path d="M87.1632 22.7144H91.1503V18.2837H94V29.7132H91.1503V25.2865H87.1632V29.7132H84.3136V18.2837H87.1632V22.7144Z" fill="#5151C7"></path>
+<path d="M50.7049 34.8565V46.282H47.8553V37.4287H45.291V46.282H42.4454V37.4287H39.8811V46.282H37.0314V34.8565H50.7049Z" fill="#5151C7"></path>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M73.727 9.56346C73.6386 9.82552 73.5301 10.0755 73.4055 10.3214C72.9714 11.1761 72.3283 11.8615 71.4803 12.3735C70.6282 12.8895 69.6354 13.1435 68.51 13.1435C67.3846 13.1435 66.3959 12.8895 65.5398 12.3775C64.6917 11.8655 64.0446 11.1801 63.6065 10.3214C63.1684 9.46268 62.9514 8.50316 62.9514 7.43882C62.9514 6.6446 63.08 5.89876 63.3372 5.20533C63.5945 4.51189 63.9522 3.90313 64.4184 3.38709C64.8887 2.86702 65.4715 2.45983 66.1789 2.16552C66.8822 1.87122 67.662 1.72205 68.506 1.72205C69.3501 1.72205 70.1298 1.87122 70.8332 2.16552C71.5365 2.45983 72.1274 2.86702 72.5936 3.38709C73.0598 3.90313 73.4216 4.50786 73.6748 5.20533C73.6868 5.24161 73.6989 5.27387 73.711 5.31015L70.998 6.03987C70.8854 5.74153 70.7327 5.49157 70.5398 5.28596C70.0976 4.82233 69.4304 4.58044 68.502 4.58044C67.5735 4.58044 66.9064 4.82233 66.4683 5.28596C66.0302 5.74959 65.797 6.45915 65.797 7.43479C65.797 8.41043 66.0302 9.12 66.4683 9.58363C66.9064 10.0473 67.5776 10.2892 68.498 10.2892C69.4184 10.2892 70.0936 10.0473 70.5357 9.58363C70.7287 9.37802 70.8814 9.12806 70.9939 8.82972L73.719 9.56346H73.727Z" fill="#5151C7"></path>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M68.5902 42.5692C69.161 42.5692 69.6835 42.4684 70.1658 42.2709C70.6401 42.0733 71.042 41.7992 71.3595 41.4404C71.673 41.0896 71.9182 40.6824 72.091 40.2148C72.2638 39.7471 72.3482 39.2432 72.3482 38.707C72.3482 37.9894 72.1995 37.3403 71.9061 36.7597C71.6127 36.1792 71.1746 35.7155 70.5958 35.3688C70.0171 35.0181 69.3459 34.8528 68.5862 34.8528H62.6618V46.2823H65.5115V42.5692H68.5862H68.5902ZM68.2767 39.9971C68.7068 39.9971 69.0042 39.8842 69.1971 39.6826C69.3901 39.481 69.4986 39.1625 69.4986 38.711C69.4986 38.2594 69.3901 37.945 69.1971 37.7394C69.0042 37.5378 68.7028 37.4249 68.2767 37.4249H65.5115V39.9971H67.706H68.2767Z" fill="#5151C7"></path>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M58.8598 33.2681C58.683 33.3729 58.478 33.4254 58.2529 33.4254C58.0279 33.4254 57.8229 33.3729 57.646 33.2722C57.4732 33.1714 57.3365 33.0303 57.2441 32.8569C57.1517 32.6836 57.1075 32.4941 57.1075 32.2844C57.1075 32.1272 57.1316 31.978 57.1838 31.8409C57.2361 31.7079 57.3084 31.5789 57.4089 31.4781C57.5054 31.3733 57.6259 31.2886 57.7746 31.2322C57.9193 31.1757 58.0761 31.1435 58.2489 31.1435C58.4217 31.1435 58.5785 31.1717 58.7232 31.2322C58.8679 31.2927 58.9885 31.3733 59.0849 31.4781C59.1814 31.5829 59.2578 31.7079 59.31 31.8409C59.3623 31.978 59.3864 32.1272 59.3864 32.2844C59.3864 32.4941 59.3422 32.6876 59.2497 32.8569C59.1573 33.0262 59.0246 33.1633 58.8558 33.2681H58.8598ZM55.7248 33.2681C55.548 33.3729 55.343 33.4254 55.1179 33.4254C54.8928 33.4254 54.6879 33.3729 54.511 33.2722C54.3382 33.1714 54.2015 33.0303 54.1091 32.8569C54.0166 32.6836 53.9724 32.4941 53.9724 32.2844C53.9724 32.1272 53.9965 31.978 54.0488 31.8409C54.101 31.7079 54.1734 31.5789 54.2739 31.4781C54.3703 31.3733 54.4909 31.2886 54.6396 31.2322C54.7843 31.1757 54.9411 31.1435 55.1139 31.1435C55.2867 31.1435 55.4435 31.1717 55.5882 31.2322C55.7329 31.2927 55.8534 31.3733 55.9499 31.4781C56.0464 31.5829 56.1227 31.7079 56.175 31.8409C56.2272 31.978 56.2514 32.1272 56.2514 32.2844C56.2514 32.4941 56.2071 32.6876 56.1147 32.8569C56.0222 33.0262 55.8896 33.1633 55.7208 33.2681H55.7248ZM60.9539 46.2821V43.7099H55.2586V41.8514H59.8164V39.2792H55.2586V37.4207H60.9539V34.8485H52.4089V46.278H60.9539V46.2821Z" fill="#5151C7"></path>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M37.0311 1.71338V13.1429H39.8808V8.28486H40.15L41.7457 11.7157H44.5672L46.1629 8.28486H46.4321V13.1429H49.2818V1.71338H46.3879L43.3333 8.28486H42.9796L39.925 1.71338H37.0311Z" fill="#5151C7"></path>
+</svg>
+</a>
+
+                    <?xml encoding="UTF-8"><nav class="mos-header_menu">
+                            <div class="mos-header_menuItem mos-header_menuItem--events">
+                <a href="/events">
+                    <img role="img" src="/uploads/media/default/0003/80/af082fb633a48ecfffa9ec99c533da2f95460c9e.svg" alt="Мероприятия">                    Мероприятия
+                </a>
+                
+                            </div>
+                                <div class="mos-header_menuItem js-parent-menu">
+                <a href="#" class="mos-header_parent">
+                                        О центре
+                </a>
+                                    <svg role="img" class="js-children-menu" width="12" height="6" viewbox="0 0 12 6" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path fill-rule="evenodd" clip-rule="evenodd" d="M6.26522 4.35105L10.5581 0.0581059L11.442 0.941984L7.14911 5.23493C7.14177 5.24226 7.13443 5.24961 7.12708 5.25697C6.97982 5.40432 6.82863 5.55559 6.68539 5.66488C6.52057 5.79064 6.29521 5.918 6.00005 5.918C5.7049 5.918 5.47953 5.79064 5.31471 5.66488C5.17148 5.55559 5.0203 5.40433 4.87304 5.25698C4.86568 5.24962 4.85833 5.24227 4.85099 5.23493L0.558105 0.941983L1.44199 0.0581055L5.73488 4.35105C5.81986 4.43603 5.88674 4.50285 5.94558 4.5588C5.96591 4.57812 5.98396 4.59488 6.00005 4.60943C6.01614 4.59488 6.03419 4.57812 6.05452 4.5588C6.11337 4.50285 6.18024 4.43603 6.26522 4.35105Z" fill=""></path>
+                    </svg>
+                
+                                    <div class="mos-header_children">
+                        <div class="mos-header_childrenInner mos-header_childrenInner--cols">
+                                <ul>
+                                    <li>
+                    <a class="" href="/#about">
+                        О нас
+                    </a>
+                </li>
+                                                <li>
+                    <a class="" href="/news">
+                        Новости
+                    </a>
+                </li>
+                                                <li>
+                    <a class="" href="/doc">
+                        Документы
+                    </a>
+                </li>
+                                                <li>
+                    <a class="" href="/contacts">
+                        Контакты
+                    </a>
+                </li>
+                                                <li>
+                    <a target="_blank" class="" href="/redirect/check?url=https%3A%2F%2Fmosvolonter.ismyteam.ru%2Fcareer" rel="noopener noreferrer">
+                        Вакансии
+                    </a>
+                </li>
+                                            </ul>
+                                                                                    
+
+    <div class="mos-header_menuBanner">
+  <div>
+    <div class="mos-header_menuBannerTitle">Ресурсный центр «Мосволонтёр»</div>
+    <div class="mos-header_menuBannerDesc">Крупнейший в России ресурсный центр поддержки волонтёрства</div>
+  </div>
+  <div class="mos-header_menuBannerBottom">
+    <div class="mos-header_menuBannerLink">
+      <div><a href="mailto:info@mosvolonter.ru">info@mosvolonter.ru</a></div>
+      <div><a href="tel:+74997226990">+7 (499) 722-69-90</a></div>
+    </div>
+    <div class="mos-header_menuBannerNetwork">
+      <a href="/redirect/check?url=https%3A%2F%2Ft.me%2Fmosvol" rel="noopener noreferrer">
+        <svg width="16.044922" height="13.356627" viewbox="0 0 16.0449 13.3566" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+          <path id="Vector" d="M1.08 5.74C6.01 3.56 12.4 0.92 13.28 0.55C15.6 -0.41 16.31 -0.23 15.95 1.9C15.7 3.43 14.97 8.48 14.38 11.63C14.04 13.49 13.26 13.72 12.03 12.91C11.44 12.52 8.47 10.56 7.83 10.09C7.24 9.67 6.43 9.17 7.45 8.17C7.81 7.82 10.18 5.55 12.03 3.79C12.28 3.55 11.97 3.17 11.69 3.36C9.2 5.01 5.74 7.31 5.3 7.61C4.64 8.06 4 8.27 2.85 7.94C1.99 7.69 1.14 7.39 0.81 7.28C-0.46 6.84 -0.16 6.28 1.08 5.74Z" fill="#5D6570" fill-opacity="1.000000" fill-rule="nonzero"></path>
+        </svg>
+      </a>
+      <a href="/redirect/check?url=https%3A%2F%2Fvk.com%2Fmosvolonter" rel="noopener noreferrer">
+        <svg width="16.560547" height="10.333333" viewbox="0 0 16.5605 10.3333" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+          <path id="Vector" d="M9.01 10.33C3.36 10.33 0.13 6.45 0 0L2.83 0C2.92 4.73 5.01 6.74 6.67 7.15L6.67 0L9.33 0L9.33 4.08C10.97 3.9 12.69 2.04 13.27 0L15.93 0C15.49 2.52 13.63 4.38 12.3 5.15C13.63 5.77 15.75 7.39 16.56 10.33L13.62 10.33C12.99 8.36 11.41 6.84 9.33 6.64L9.33 10.33L9.01 10.33Z" fill="#5D6570" fill-opacity="1.000000" fill-rule="nonzero"></path>
+        </svg>
+
+      </a>
+    </div>
+  </div>
+</div>
+
+
+            
+                        </div>
+                    </div>
+                            </div>
+                                <div class="mos-header_menuItem js-parent-menu">
+                <a href="#" class="mos-header_parent">
+                                        Волонтёрам
+                </a>
+                                    <svg role="img" class="js-children-menu" width="12" height="6" viewbox="0 0 12 6" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path fill-rule="evenodd" clip-rule="evenodd" d="M6.26522 4.35105L10.5581 0.0581059L11.442 0.941984L7.14911 5.23493C7.14177 5.24226 7.13443 5.24961 7.12708 5.25697C6.97982 5.40432 6.82863 5.55559 6.68539 5.66488C6.52057 5.79064 6.29521 5.918 6.00005 5.918C5.7049 5.918 5.47953 5.79064 5.31471 5.66488C5.17148 5.55559 5.0203 5.40433 4.87304 5.25698C4.86568 5.24962 4.85833 5.24227 4.85099 5.23493L0.558105 0.941983L1.44199 0.0581055L5.73488 4.35105C5.81986 4.43603 5.88674 4.50285 5.94558 4.5588C5.96591 4.57812 5.98396 4.59488 6.00005 4.60943C6.01614 4.59488 6.03419 4.57812 6.05452 4.5588C6.11337 4.50285 6.18024 4.43603 6.26522 4.35105Z" fill=""></path>
+                    </svg>
+                
+                                    <div class="mos-header_children">
+                        <div class="mos-header_childrenInner">
+                                <ul>
+                                    <li>
+                    <a class="" href="/events">
+                        Мероприятия
+                    </a>
+                </li>
+                                                <li>
+                    <a class="" href="/programs">
+                        Направления волонтёрства
+                    </a>
+                </li>
+                                                <li>
+                    <a class="" href="/education">
+                        Обучение
+                    </a>
+                </li>
+                                            </ul>
+                                                            
+
+    <div class="mos-header_menuBanner mos-header_menuBanner--2">
+  <div>
+    <div class="mos-header_menuBannerTitle">Служба поддержки</div>
+    <div class="mos-header_menuBannerDesc">Не нашли, что искали, или есть вопрос? Напишите нам.</div>
+    <div class="mos-base_allLink"><a href="/feedback">Написать</a></div>
+  </div>
+  <div class="mos-header_menuBannerImg"><img src="/build/images/mosvolonter_new/svg/organization_banner_icon2.svg" alt=""></div>
+  </div>
+
+
+            
+                        </div>
+                    </div>
+                            </div>
+                                <div class="mos-header_menuItem">
+                <a href="/for-partners">
+                                        Организациям
+                </a>
+                
+                            </div>
+            
+</nav>
+
+                    <?xml encoding="UTF-8"><form name="search_form" method="get" action="/search" data-header-manticore-form="1" class="js-search-form">
+<div class="mos-header_search">
+    <div class="mos-header_searchWrap">
+        <div class="mos-header_searchWrap_input">
+            <input type="text" id="search_form_search" name="search_form[search]" required="required" class="mos-base_input js-search-live" placeholder="Найти на сайте">
+            <span class="mos-header_searchWrap_input-search"></span>
+            <span class="mos-header_searchWrap_input-reset js-reset-search"></span>
+        </div>
+        <button type="submit" id="search_form_send" name="search_form[send]" class="mos-base_btn mos-base_btn--blue mos-search_btn">Найти</button>
+        <input type="hidden" name="search_form[source][]" value="all">
+    </div>
+    <div class="mos-header_searchResult">
+        <ul class="mos-header_searchResultList"></ul>
+    </div>
+</div>
+
+</form>
+
+                </div>
+                <div class="mos-header_right">
+                    <div class="mos-header_burger js-burger-menu">
+                        <svg class="icon-burger" width="18" height="12" viewBox="0 0 18 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path fill-rule="evenodd" clip-rule="evenodd" d="M17.2812 1.78125L0.71875 1.78125L0.71875 0.21875L17.2812 0.21875V1.78125Z" fill="#242424"/>
+                            <path fill-rule="evenodd" clip-rule="evenodd" d="M17.2812 6.78125L0.71875 6.78125L0.71875 5.21875L17.2812 5.21875V6.78125Z" fill="#242424"/>
+                            <path fill-rule="evenodd" clip-rule="evenodd" d="M17.2812 11.7812H0.71875L0.71875 10.2187L17.2812 10.2188V11.7812Z" fill="#242424"/>
+                        </svg>
+                    </div>
+                    <div class="mos-header_searchMob js-mob-search">
+                        Поиск
+                        <svg class="icon-search" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path fill-rule="evenodd" clip-rule="evenodd" d="M10.9003 3.44938C8.84276 1.39187 5.50689 1.39187 3.44938 3.44938C1.39187 5.50689 1.39187 8.84276 3.44938 10.9003C5.50689 12.9578 8.84276 12.9578 10.9003 10.9003C12.9578 8.84276 12.9578 5.50689 10.9003 3.44938ZM2.34453 2.34453C5.01223 -0.323175 9.33743 -0.323175 12.0051 2.34453C14.486 4.82542 14.6597 8.7398 12.5263 11.4215L15.9799 14.875L14.875 15.9799L11.4215 12.5263C8.7398 14.6597 4.82542 14.486 2.34453 12.0051C-0.323175 9.33743 -0.323175 5.01223 2.34453 2.34453Z" fill="#242424"/>
+                        </svg>
+                    </div>
+                    <div class="mos-header_searchPanel" style="display: none;">
+                        <div class="mos-header_searchPanelInner">
+                            <div class="mos-header_search">
+    <form class="js-search-form" method='get' action='/search' data-header-manticore-form="1">
+        <div class="mos-header_searchWrap">
+            <div class="mos-header_searchWrap_input">
+                <input type="text" class="mos-base_input js-search-live" name='search_form[search]' placeholder="Найти на сайте" required>
+                <span class="mos-header_searchWrap_input-search"></span>
+                <span class="mos-header_searchWrap_input-reset js-reset-search"></span>
+            </div>
+            <button class="mos-base_btn mos-base_btn--blue mos-search_btn" type="submit">Найти</button>
+            <input type="hidden" name="search_form[source][]" value="all">
+        </div>
+        <div class="mos-header_searchResult mos-header_searchResult--mob">
+            <ul class="mos-header_searchResultList"></ul>
+        </div>
+    </form>
+</div>                        </div>
+                    </div>
+                                            <div class="mos-header_lk">
+                            <a class="mos-header_lk-login" href="/login">Войти</a>
+                        </div>
+                                    </div>
+                <nav class="mos-header_burgerMenu"><?xml encoding="UTF-8"><div class="mos-header_burgerMenuItem mos-header_burgerMenuItem--events">
+  <div class="mos-header_burgerMenuEvents">
+    <span style="color:#242424;">Мероприятия</span>
+    Выберите удобную для вас возможность помогать
+  </div>
+  <div class="mos-header_burgerMenuImg"><!--<img src="build/images/mosvolonter_new/svg/events-image.svg" alt=""> --> </div>
+  <a href="/events">
+    <span>Выбрать</span>
+    <svg width="14" height="10" viewbox="0 0 14 10" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <path d="M11.9914 5.62511L9.05835 8.5581L9.94223 9.442L13.2572 6.12707C13.4046 5.97982 13.5559 5.82863 13.6652 5.68539C13.7909 5.52058 13.9183 5.29521 13.9183 5.00005C13.9183 4.7049 13.7909 4.47953 13.6652 4.31471C13.5559 4.17147 13.4046 4.02029 13.2572 3.87303L9.94223 0.558105L9.05836 1.442L11.9915 4.37511L0.500366 4.37511L0.500366 5.6251L11.9914 5.62511Z" fill="#3434A2"></path>
+    </svg>
+  </a>
+</div><div class="mos-header_burgerMenuItem">
+                    <a href="#" class="mos-header_burgerMenuParent js-children-burger">
+                                                О центре
+                                                    <svg width="18" height="10" viewbox="0 0 18 10" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path fill-rule="evenodd" clip-rule="evenodd" d="M9.39783 7.02646L15.8372 0.587037L17.163 1.91285L10.7237 8.35227C10.7127 8.36327 10.7016 8.37429 10.6906 8.38533C10.4697 8.60635 10.2429 8.83327 10.0281 8.9972C9.78086 9.18583 9.44281 9.37688 9.00008 9.37688C8.55734 9.37688 8.2193 9.18583 7.97207 8.9972C7.75722 8.83327 7.53045 8.60637 7.30956 8.38535C7.29852 8.37431 7.2875 8.36328 7.27649 8.35227L0.837158 1.91285L2.16299 0.587036L8.60233 7.02645C8.72979 7.15392 8.8301 7.25415 8.91837 7.33807C8.94887 7.36706 8.97594 7.3922 9.00008 7.41402C9.02421 7.3922 9.05129 7.36706 9.08178 7.33807C9.17005 7.25415 9.27036 7.15392 9.39783 7.02646Z" fill="#13151A"></path>
+                            </svg>
+                                            </a>
+                                            <div class="mos-header_burgerChildren">
+                                <ul>
+                                    <li><a class="" href="/#about">О нас</a></li>
+                                                <li><a class="" href="/news">Новости</a></li>
+                                                <li><a class="" href="/doc">Документы</a></li>
+                                                <li><a class="" href="/contacts">Контакты</a></li>
+                                                <li><a target="_blank" class="" href="/redirect/check?url=https%3A%2F%2Fmosvolonter.ismyteam.ru%2Fcareer" rel="noopener noreferrer">Вакансии</a></li>
+                                            </ul>
+                                                                                    
+
+    <div class="mos-header_menuBanner">
+  <div>
+    <div class="mos-header_menuBannerTitle">Ресурсный центр «Мосволонтёр»</div>
+    <div class="mos-header_menuBannerDesc">Крупнейший в России ресурсный центр поддержки волонтёрства</div>
+  </div>
+  <div class="mos-header_menuBannerBottom">
+    <div class="mos-header_menuBannerLink">
+      <div><a href="mailto:info@mosvolonter.ru">info@mosvolonter.ru</a></div>
+      <div><a href="tel:+74997226990">+7 (499) 722-69-90</a></div>
+    </div>
+    <div class="mos-header_menuBannerNetwork">
+      <a href="/redirect/check?url=https%3A%2F%2Ft.me%2Fmosvol" rel="noopener noreferrer">
+        <svg width="16.044922" height="13.356627" viewbox="0 0 16.0449 13.3566" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+          <path id="Vector" d="M1.08 5.74C6.01 3.56 12.4 0.92 13.28 0.55C15.6 -0.41 16.31 -0.23 15.95 1.9C15.7 3.43 14.97 8.48 14.38 11.63C14.04 13.49 13.26 13.72 12.03 12.91C11.44 12.52 8.47 10.56 7.83 10.09C7.24 9.67 6.43 9.17 7.45 8.17C7.81 7.82 10.18 5.55 12.03 3.79C12.28 3.55 11.97 3.17 11.69 3.36C9.2 5.01 5.74 7.31 5.3 7.61C4.64 8.06 4 8.27 2.85 7.94C1.99 7.69 1.14 7.39 0.81 7.28C-0.46 6.84 -0.16 6.28 1.08 5.74Z" fill="#5D6570" fill-opacity="1.000000" fill-rule="nonzero"></path>
+        </svg>
+      </a>
+      <a href="/redirect/check?url=https%3A%2F%2Fvk.com%2Fmosvolonter" rel="noopener noreferrer">
+        <svg width="16.560547" height="10.333333" viewbox="0 0 16.5605 10.3333" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+          <path id="Vector" d="M9.01 10.33C3.36 10.33 0.13 6.45 0 0L2.83 0C2.92 4.73 5.01 6.74 6.67 7.15L6.67 0L9.33 0L9.33 4.08C10.97 3.9 12.69 2.04 13.27 0L15.93 0C15.49 2.52 13.63 4.38 12.3 5.15C13.63 5.77 15.75 7.39 16.56 10.33L13.62 10.33C12.99 8.36 11.41 6.84 9.33 6.64L9.33 10.33L9.01 10.33Z" fill="#5D6570" fill-opacity="1.000000" fill-rule="nonzero"></path>
+        </svg>
+
+      </a>
+    </div>
+  </div>
+</div>
+
+
+            
+                        </div>
+                                    </div><div class="mos-header_burgerMenuItem">
+                    <a href="#" class="mos-header_burgerMenuParent js-children-burger">
+                                                Волонтёрам
+                                                    <svg width="18" height="10" viewbox="0 0 18 10" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path fill-rule="evenodd" clip-rule="evenodd" d="M9.39783 7.02646L15.8372 0.587037L17.163 1.91285L10.7237 8.35227C10.7127 8.36327 10.7016 8.37429 10.6906 8.38533C10.4697 8.60635 10.2429 8.83327 10.0281 8.9972C9.78086 9.18583 9.44281 9.37688 9.00008 9.37688C8.55734 9.37688 8.2193 9.18583 7.97207 8.9972C7.75722 8.83327 7.53045 8.60637 7.30956 8.38535C7.29852 8.37431 7.2875 8.36328 7.27649 8.35227L0.837158 1.91285L2.16299 0.587036L8.60233 7.02645C8.72979 7.15392 8.8301 7.25415 8.91837 7.33807C8.94887 7.36706 8.97594 7.3922 9.00008 7.41402C9.02421 7.3922 9.05129 7.36706 9.08178 7.33807C9.17005 7.25415 9.27036 7.15392 9.39783 7.02646Z" fill="#13151A"></path>
+                            </svg>
+                                            </a>
+                                            <div class="mos-header_burgerChildren">
+                                <ul>
+                                    <li><a class="" href="/events">Мероприятия</a></li>
+                                                <li><a class="" href="/programs">Направления волонтёрства</a></li>
+                                                <li><a class="" href="/education">Обучение</a></li>
+                                            </ul>
+                                                            
+
+    <div class="mos-header_menuBanner mos-header_menuBanner--2">
+  <div>
+    <div class="mos-header_menuBannerTitle">Служба поддержки</div>
+    <div class="mos-header_menuBannerDesc">Не нашли, что искали, или есть вопрос? Напишите нам.</div>
+    <div class="mos-base_allLink"><a href="/feedback">Написать</a></div>
+  </div>
+  <div class="mos-header_menuBannerImg"><img src="/build/images/mosvolonter_new/svg/organization_banner_icon2.svg" alt=""></div>
+  </div>
+
+
+            
+                        </div>
+                                    </div><div class="mos-header_burgerMenuItem">
+                    <a href="/for-partners">
+                                                Организациям
+                                            </a>
+                                    </div>
+</nav>
+            </div>
+        </div>
+    </div>
+</header>        <main class="mos-main">
+            <div class="mos-base_container">
+                <div class="mos-base_page mos-base_page--main">
+                    <?xml encoding="UTF-8"><div class="mos-main_count">1,6 млн волонтёров <span>уже с нами</span></div><div class="mos-main_title">
+  <h1>Делайте мир добрее вместе с нами</h1>
+  <div class="mos-main_titleBtns">
+    <a href="/events?" class="mos-base_btn mos-base_btn--blue">Начать помогать</a>
+    <a href="/for-partners" class="mos-base_btn mos-base_btn--white">Стать партнёром</a>
+  </div>
+</div><section class="mos-main_slider is-navigation-bottom js-slider-events">
+        <div class="swiper-wrapper">
+                            <article class="swiper-slide">
+                                                                                                                        <div class="mos-main_sliderImg">
+                            <img src="/cache/d/d/c/9/2/ddc92922532435559652cd152104b60bfa41fd7f.jpeg" alt="Суперфинал кубка России по футболу (май 2026)" title="Суперфинал кубка России по футболу (май 2026)">
+                        </div>
+                                        <div class="mos-main_sliderInfo">
+                                                <h2>Суперфинал кубка России по футболу (май 2026)</h2>
+                                                                            <div class="mos-main_sliderText mos-main_sliderText--date">
+                                до
+                                                                    24 мая
+                                                            </div>
+                                                                            <div class="mos-main_sliderText mos-main_sliderText--address">Москва, улица Лужники, 24с1</div>
+                                                                            <a href="/new-event/view/superfinal-kubka-rossii-po-futbolu-may-2026" target="_blank" class="mos-base_btn mos-base_btn--white mos-main_sliderBtn" onclick="sendEventToMetrika({location:'main',event_type:'click',event:'banner_button',extra_params:{banner_place: 'main',event_title: 'Суперфинал кубка России по футболу (май 2026)', button_title: 'Узнать больше' }});">Узнать больше</a>
+                                            </div>
+                </article>
+                            <article class="swiper-slide">
+                                                                                                                        <div class="mos-main_sliderImg">
+                            <img src="/cache/a/c/5/3/8/ac538deefd6527d23fcee595bbb2ac7dc2bdf3ae.jpeg" alt="Деловая программа Международного туристического форума «Путешествуй!» (июнь 2026)" title="Деловая программа Международного туристического форума «Путешествуй!» (июнь 2026)">
+                        </div>
+                                        <div class="mos-main_sliderInfo">
+                                                <h2>Деловая программа Международного туристического форума «Путешествуй!» (июнь 2026)</h2>
+                                                                            <div class="mos-main_sliderText mos-main_sliderText--date">
+                                до
+                                                                    14 июня
+                                                            </div>
+                                                                            <div class="mos-main_sliderText mos-main_sliderText--address">Москва, проспект Мира, 119</div>
+                                                                            <a href="/new-event/view/delovaya-programma-mezhdunarodnogo-turisticheskogo-foruma-puteshestvuy-iyun-2026" class="mos-base_btn mos-base_btn--white mos-main_sliderBtn" onclick="sendEventToMetrika({location:'main',event_type:'click',event:'banner_button',extra_params:{banner_place: 'main',event_title: 'Деловая программа Международного туристического форума «Путешествуй!» (июнь 2026)', button_title: 'Узнать больше' }});">Узнать больше</a>
+                                            </div>
+                </article>
+                            <article class="swiper-slide">
+                                                                                                                        <div class="mos-main_sliderImg">
+                            <img src="/cache/6/c/f/e/2/6cfe2c2d5916e6ef12dda2041f83e07ee11dd368.png" alt="Штаб по сбору гуманитарной помощи «Москва Помогает» (апрель — июнь 2026)" title="Штаб по сбору гуманитарной помощи «Москва Помогает» (апрель — июнь 2026)">
+                        </div>
+                                        <div class="mos-main_sliderInfo">
+                                                <h2>Штаб по сбору гуманитарной помощи «Москва Помогает» (апрель — июнь 2026)</h2>
+                                                                            <div class="mos-main_sliderText mos-main_sliderText--date">
+                                до
+                                                                    30 июня
+                                                            </div>
+                                                                                                    <a href="/new-event/view/shtab-po-sboru-gumanitarnoy-pomoshchi-moskva-pomogaet-aprel--iyun-2026" class="mos-base_btn mos-base_btn--white mos-main_sliderBtn" onclick="sendEventToMetrika({location:'main',event_type:'click',event:'banner_button',extra_params:{banner_place: 'main',event_title: 'Штаб по сбору гуманитарной помощи «Москва Помогает» (апрель — июнь 2026)', button_title: 'Узнать больше' }});">Узнать больше</a>
+                                            </div>
+                </article>
+                            <article class="swiper-slide">
+                                                                                                                        <div class="mos-main_sliderImg">
+                            <img src="/cache/d/1/d/c/7/d1dc7cd889f299680d628f2f3560d84b41257d3a.jpeg" alt="Международный туристический форум «Путешествуй!» (июнь 2026)" title="Международный туристический форум «Путешествуй!» (июнь 2026)">
+                        </div>
+                                        <div class="mos-main_sliderInfo">
+                                                <h2>Международный туристический форум «Путешествуй!» (июнь 2026)</h2>
+                                                                            <div class="mos-main_sliderText mos-main_sliderText--date">
+                                до
+                                                                    14 июня
+                                                            </div>
+                                                                            <div class="mos-main_sliderText mos-main_sliderText--address">Москва, проспект Мира, 119</div>
+                                                                            <a href="/new-event/view/mezhdunarodnyy-turisticheskiy-forum-puteshestvuy-iyun-2026" class="mos-base_btn mos-base_btn--white mos-main_sliderBtn" onclick="sendEventToMetrika({location:'main',event_type:'click',event:'banner_button',extra_params:{banner_place: 'main',event_title: 'Международный туристический форум «Путешествуй!» (июнь 2026)', button_title: 'Узнать больше' }});">Узнать больше</a>
+                                            </div>
+                </article>
+                    </div>
+        <div class="mos-base_nav">
+            <div class="mos-base_navArrow swiper-button-prev" onclick="sendEventToMetrika({location:'main',event_type:'click',event:'banner_arrow',extra_params:{banner_place: 'main' }});"></div>
+            <div class="mos-base_navArrow swiper-button-next" onclick="sendEventToMetrika({location:'main',event_type:'click',event:'banner_arrow',extra_params:{banner_place: 'main' }});"></div>
+        </div>
+        <div class="swiper-pagination"></div>
+    </section><section class="mos-main_banners is-navigation-bottom js-banners">
+        <div class="swiper-wrapper">
+                            <article class="mos-main_banner swiper-slide">
+                    <div class="mos-main_bannerInfo mos-main_bannerInfo--some mos-main_bannerInfo--mask">
+                        <h2>В штабах «Москва помогает» идёт сбор гуманитарной помощи пострадавшим в Республике Дагестан</h2>
+                                                    <a href="/redirect/check?url=https%3A%2F%2Fwww.mos.ru%2Fcity%2Fprojects%2Fmoskva_pomogaet%2F" class="mos-base_btn mos-base_btn--white" onclick="sendEventToMetrika({location:'main',event_type:'click',event:'banner_button',extra_params:{banner_place: 'second',event_title: 'В штабах «Москва помогает» идёт сбор гуманитарной помощи пострадавшим в Республике Дагестан', button_title: 'Подробнее' }});" rel="noopener noreferrer">Подробнее</a>
+                                            </div>
+                                            <div class="mos-main_bannerImg mos-main_bannerImg--mask">
+                            <img src="/cache/0/9/e/7/7/09e77b9deaaf7389aa6ff355aef8448bb476c0d7.jpeg" alt="В штабах «Москва помогает» идёт сбор гуманитарной помощи пострадавшим в Республике Дагестан" title="В штабах «Москва помогает» идёт сбор гуманитарной помощи пострадавшим в Республике Дагестан">
+                        </div>
+                                                                                                </article>
+                            <article class="mos-main_banner swiper-slide">
+                    <div class="mos-main_bannerInfo mos-main_bannerInfo--some mos-main_bannerInfo--mask">
+                        <h2>Успейте до 24 мая подать заявку на Международную Премию #МЫВМЕСТЕ</h2>
+                                                    <a href="/redirect/check?url=https%3A%2F%2Fxn--e1aglkf7g.xn--b1agazb5ah1e.xn--p1ai%2F" class="mos-base_btn mos-base_btn--white" onclick="sendEventToMetrika({location:'main',event_type:'click',event:'banner_button',extra_params:{banner_place: 'second',event_title: 'Успейте до 24 мая подать заявку на Международную Премию #МЫВМЕСТЕ', button_title: 'Подробнее' }});" rel="noopener noreferrer">Подробнее</a>
+                                            </div>
+                                            <div class="mos-main_bannerImg mos-main_bannerImg--mask">
+                            <img src="/cache/6/4/3/d/1/643d12787b11695276bf71bd0d5065b5e64b7aee.jpeg" alt="Успейте до 24 мая подать заявку на Международную Премию #МЫВМЕСТЕ" title="Успейте до 24 мая подать заявку на Международную Премию #МЫВМЕСТЕ">
+                        </div>
+                                                                                                </article>
+                            <article class="mos-main_banner swiper-slide mos-main_bannerImg--national-projects-label">
+                    <div class="mos-main_bannerInfo mos-main_bannerInfo--some mos-main_bannerInfo--mask">
+                        <h2>Узнайте, какие возможности даёт национальный проект России «Молодёжь и дети»</h2>
+                                                    <a href="/redirect/check?url=https%3A%2F%2Fxn--80aapampemcchfmo7a3c9ehj.xn--p1ai%2Fnew-projects%2Fmolodezh-i-deti%2F" class="mos-base_btn mos-base_btn--white" onclick="sendEventToMetrika({location:'main',event_type:'click',event:'banner_button',extra_params:{banner_place: 'second',event_title: 'Узнайте, какие возможности даёт национальный проект России «Молодёжь и дети»', button_title: 'Подробнее' }});" rel="noopener noreferrer">Подробнее</a>
+                                            </div>
+                                            <div class="mos-main_bannerImg mos-main_bannerImg--desktop mos-main_bannerImg--mask">
+                            <img src="/cache/0/7/f/e/d/07fed65e757456099266626298bfd09f7d56b1cd.jpeg" alt="Узнайте, какие возможности даёт национальный проект России «Молодёжь и дети»" title="Узнайте, какие возможности даёт национальный проект России «Молодёжь и дети»">
+                        </div>
+                                                                <div class="mos-main_bannerImg mos-main_bannerImg--tablet mos-main_bannerImg--mask">
+                            <img src="/cache/0/7/f/e/d/07fed65e757456099266626298bfd09f7d56b1cd.jpeg" alt="Узнайте, какие возможности даёт национальный проект России «Молодёжь и дети»" title="Узнайте, какие возможности даёт национальный проект России «Молодёжь и дети»">
+                        </div>
+                                                                <div class="mos-main_bannerImg mos-main_bannerImg--mobile mos-main_bannerImg--mask">
+                            <img src="/cache/e/8/7/7/4/e87740437b82f394228d6fe36112a99ad9769f0e.jpeg" alt="Узнайте, какие возможности даёт национальный проект России «Молодёжь и дети»" title="Узнайте, какие возможности даёт национальный проект России «Молодёжь и дети»">
+                        </div>
+                                                                <div class="mos-main_bannerLabel--national-projects-label"></div>
+                                    </article>
+                            <article class="mos-main_banner swiper-slide">
+                    <div class="mos-main_bannerInfo mos-main_bannerInfo--some mos-main_bannerInfo--mask">
+                        <h2>Копите волонтёрские часы на нашем сайте и получайте баллы проекта «Город заданий»</h2>
+                                                    <a href="/redirect/check?url=https%3A%2F%2Fgz.mos.ru%2Fassignments%2Flist%3Fcustomers%3D102" class="mos-base_btn mos-base_btn--white" onclick="sendEventToMetrika({location:'main',event_type:'click',event:'banner_button',extra_params:{banner_place: 'second',event_title: 'Копите волонтёрские часы на нашем сайте и получайте баллы проекта «Город заданий»', button_title: 'Подробнее' }});" rel="noopener noreferrer">Подробнее</a>
+                                            </div>
+                                            <div class="mos-main_bannerImg mos-main_bannerImg--mask">
+                            <img src="/cache/c/8/d/c/4/c8dc4583d4397a8a61ba549c8da444e43066ee40.jpeg" alt="Копите волонтёрские часы на нашем сайте и получайте баллы проекта «Город заданий»" title="Копите волонтёрские часы на нашем сайте и получайте баллы проекта «Город заданий»">
+                        </div>
+                                                                                                </article>
+                            <article class="mos-main_banner swiper-slide">
+                    <div class="mos-main_bannerInfo mos-main_bannerInfo--some mos-main_bannerInfo--mask">
+                        <h2>Познакомьтесь с обновлённым сайтом «Мосволонтёра» и его возможностями</h2>
+                                                    <a href="https://mosvolonter.ru/news/view/delat-mir-dobree-vmeste-resursnyy-centr-mosvolontyor-predstavil-obnovlennyy-sayt" class="mos-base_btn mos-base_btn--white" onclick="sendEventToMetrika({location:'main',event_type:'click',event:'banner_button',extra_params:{banner_place: 'second',event_title: 'Познакомьтесь с обновлённым сайтом «Мосволонтёра» и его возможностями', button_title: 'Подробнее' }});">Подробнее</a>
+                                            </div>
+                                            <div class="mos-main_bannerImg mos-main_bannerImg--mask">
+                            <img src="/cache/e/d/f/b/d/edfbd0777faaa423c3d024db4a569a5c93a27e78.jpeg" alt="Познакомьтесь с обновлённым сайтом «Мосволонтёра» и его возможностями" title="Познакомьтесь с обновлённым сайтом «Мосволонтёра» и его возможностями">
+                        </div>
+                                                                                                </article>
+                            <article class="mos-main_banner swiper-slide">
+                    <div class="mos-main_bannerInfo mos-main_bannerInfo--some mos-main_bannerInfo--mask">
+                        <h2>Как добровольцы участвуют в гуманитарной миссии Русской Православной Церкви в новых регионах</h2>
+                                                    <a href="https://mosvolonter.ru/news/view/5-tysyach-dobrovolcev-so-vsey-strany-prisoedinilis-k-patriarshey-gumanitarnoy-missii-russkoy-pravoslavnoy-cerkvi" class="mos-base_btn mos-base_btn--white" onclick="sendEventToMetrika({location:'main',event_type:'click',event:'banner_button',extra_params:{banner_place: 'second',event_title: 'Как добровольцы участвуют в гуманитарной миссии Русской Православной Церкви в новых регионах', button_title: 'Подробнее' }});">Подробнее</a>
+                                            </div>
+                                            <div class="mos-main_bannerImg mos-main_bannerImg--mask">
+                            <img src="/cache/b/5/5/9/e/b559e79fc2fcfd4bc3a64cff031ddd4109f041af.jpeg" alt="Как добровольцы участвуют в гуманитарной миссии Русской Православной Церкви в новых регионах" title="Как добровольцы участвуют в гуманитарной миссии Русской Православной Церкви в новых регионах">
+                        </div>
+                                                                                                </article>
+                    </div>
+        <div class="mos-base_nav">
+            <div class="mos-base_navArrow swiper-button-prev" onclick="sendEventToMetrika({location:'main',event_type:'click',event:'banner_arrow',extra_params:{banner_place: 'second' }});"></div>
+            <div class="mos-base_navArrow swiper-button-next" onclick="sendEventToMetrika({location:'main',event_type:'click',event:'banner_arrow',extra_params:{banner_place: 'second' }});"></div>
+        </div>
+        <div class="swiper-pagination"></div>
+    </section><section class="mos-main_card mos-main_card--choice">
+        <h2>Выбор «Мосволонтёра»</h2>
+        <div class="mos-main_cardWrap">
+                            <article class="mos-main_cardItem
+                                                ">
+                                                
+    
+<div class="mos-main_cardItemInner js-focus-element" tabindex="0">
+    <a href="/activities/view/771" onclick="sendEventToMetrika({location:'main',event_type:'click',event:'favorites_event',extra_params:{event_title: 'Курс начинающего волонтёра «Включайся!» (май 2026)',event_date: '30 мая',event_area: null,button_title: 'Пройти обучение' }});" class="mos-main_cardItemImg">
+                    <img src="/cache/3/1/d/4/7/31d4784c528a9de8b4302869a3ca5656aca27e46.png" alt="Курс начинающего волонтёра «Включайся!» (май 2026)" title="Курс начинающего волонтёра «Включайся!» (май 2026)">
+            </a>
+    <div class="mos-main_cardItemInfo">
+        <div>
+            <div class="mos-main_cardItemTitle"><a href="/activities/view/771" onclick="sendEventToMetrika({location:'main',event_type:'click',event:'favorites_event',extra_params:{event_title: 'Курс начинающего волонтёра «Включайся!» (май 2026)',event_date: '30 мая',event_area: null,button_title: 'Пройти обучение' }});">Курс начинающего волонтёра «Включайся!» (май 2026)</a></div>
+            <div class="mos-main_cardItemDesc">
+                Рассказываем о мире волонтёрства понятным языком. Объясняем, как всё устроено: основные принципы, правила и разнообразие сфер помощи. Создаём дружескую атмосферу, чтобы участники пообщались и нашли единомышленников. 
+            </div>
+        </div>
+        <div>
+            <div class="mos-main_cardItemDate">30 мая</div>
+                                                    <div class="mos-education_cardItemTime">
+
+                                        
+                                                                                                                                        <p>
+                        6 часов
+                    </p>
+
+                </div>
+                        <div class="mos-main_cardItemBtn">
+                <a href="/activities/view/771" onclick="sendEventToMetrika({location:'main',event_type:'click',event:'favorites_event',extra_params:{event_title: 'Курс начинающего волонтёра «Включайся!» (май 2026)',event_date: '30 мая',event_area: null,button_title: 'Пройти обучение' }});">Пройти обучение</a>
+            </div>
+        </div>
+    </div>
+</div>                    
+                                    </article>
+                            <article class="mos-main_cardItem
+                                                ">
+                    
+                                                        <div class="mos-main_cardItemInner js-focus-element" tabindex="0">
+        <a href="/new-event/view/forum-gumannogo-otnosheniya-k-zhivotnym-may-2026" onclick="sendEventToMetrika({location:'main',event_type:'click',event:'favorites_event',extra_params:{event_title: 'Форум гуманного отношения к животным (май 2026)',event_date: '18 мая',event_area: null, button_title: 'Стать волонтёром' }});" class="mos-main_cardItemImg">
+                    <img src="/cache/2/4/9/e/c/249eca613ddb24ab63a11f2c5a6243cbba156549.png" alt="Форум гуманного отношения к животным (май 2026)" title="Форум гуманного отношения к животным (май 2026)">
+            </a>
+    <div class="mos-main_cardItemInfo">
+        <div>
+            <div class="mos-main_cardItemTitle"><a href="/new-event/view/forum-gumannogo-otnosheniya-k-zhivotnym-may-2026" onclick="sendEventToMetrika({location:'main',event_type:'click',event:'favorites_event',extra_params:{event_title: 'Форум гуманного отношения к животным (май 2026)',event_date: '18 мая',event_area: null, button_title: 'Стать волонтёром' }});">Форум гуманного отношения к животным (май 2026)</a></div>
+            <div class="mos-main_cardItemDesc">
+                                    В «Цифровом деловом пространстве» пройдёт форум, посвящённый вопросам гуманного ...
+                            </div>
+        </div>
+        <div>
+            <div class="mos-main_cardItemDate">18 мая</div>
+                        <div class="mos-main_cardItemBtn">
+                <a href="/new-event/view/forum-gumannogo-otnosheniya-k-zhivotnym-may-2026" onclick="sendEventToMetrika({location:'main',event_type:'click',event:'favorites_event',extra_params:{event_title: 'Форум гуманного отношения к животным (май 2026)',event_date: '18 мая',event_area: null, button_title: 'Стать волонтёром' }});">Стать волонтёром</a>
+            </div>
+        </div>
+    </div>
+</div>                                    </article>
+                            <article class="mos-main_cardItem
+                                                ">
+                    
+                                                            <div class="mos-main_cardItemInner js-focus-element" tabindex="0">
+        <a href="/new-event/view/master-klassy-po-risovaniyu-portretov-geroev-rossii-aprel--iyun-2026" onclick="sendEventToMetrika({location:'main',event_type:'click',event:'favorites_event',extra_params:{event_title: 'Мастер-классы по рисованию портретов Героев России и Героев СВО (апрель — июнь 2026)',event_date: '21 апреля - 2 июня',event_area: 'САО', button_title: 'Принять участие' }});" class="mos-main_cardItemImg">
+                    <img src="/cache/f/1/0/9/7/f10970938af79674445a14161f8c2d04c6a20c7a.png" alt="Мастер-классы по рисованию портретов Героев России и Героев СВО (апрель — июнь 2026)" title="Мастер-классы по рисованию портретов Героев России и Героев СВО (апрель — июнь 2026)">
+            </a>
+    <div class="mos-main_cardItemInfo">
+        <div>
+            <div class="mos-main_cardItemTitle"><a href="/new-event/view/master-klassy-po-risovaniyu-portretov-geroev-rossii-aprel--iyun-2026" onclick="sendEventToMetrika({location:'main',event_type:'click',event:'favorites_event',extra_params:{event_title: 'Мастер-классы по рисованию портретов Героев России и Героев СВО (апрель — июнь 2026)',event_date: '21 апреля - 2 июня',event_area: 'САО', button_title: 'Принять участие' }});">Мастер-классы по рисованию портретов Героев России и Героев СВО (апрель — июнь 2026)</a></div>
+            <div class="mos-main_cardItemDesc">
+                                    Приглашаем горожан в «Доброе место. Нева» на мастер-классы по портретной живопис...
+                            </div>
+        </div>
+        <div>
+            <div class="mos-main_cardItemDate">21 апреля - 2 июня</div>
+                            <div class="mos-main_cardItemAddress">САО</div>
+                        <div class="mos-main_cardItemBtn">
+                <a href="/new-event/view/master-klassy-po-risovaniyu-portretov-geroev-rossii-aprel--iyun-2026" onclick="sendEventToMetrika({location:'main',event_type:'click',event:'favorites_event',extra_params:{event_title: 'Мастер-классы по рисованию портретов Героев России и Героев СВО (апрель — июнь 2026)',event_date: '21 апреля - 2 июня',event_area: 'САО', button_title: 'Принять участие' }});">Принять участие</a>
+            </div>
+        </div>
+    </div>
+</div>                                    </article>
+                    </div>
+            </section><section data-soon-block="22696" data-soon-ajax-url="/_ajax/plist/22696/1/" class="mos-main_upcoming">
+        <div class="mos-main_upcomingTop">
+            <h2>Ближайшие события</h2>
+            <div class="mos-base_allLink">
+                <a id="eventDirectionAllSearch" href="/events">
+                    Все события                </a>
+            </div>
+        </div>
+        <div class="mos-main_upcomingFilter" data-soon-filter>
+            <div class="mos-main_upcomingFilterWrap">
+                <div data-soon-direction id="eventDirectionAll" class="mos-main_upcomingFilterItem js-upcomingFilterItem  active all">
+                    <button data-soon-filter-button onclick="applySoonFilter(this); sendEventToMetrika({location:'main',event_type:'click',event:'category',extra_params:{category_title: 'Все события' }});">
+                        <img src="/build/images/mosvolonter_new/svg/matryoshka.svg" alt="Все события" title="Все события">
+                        Все события
+                    </button>
+                </div>
+                                                        <div data-soon-direction id="eventDirection2" class="mos-main_upcomingFilterItem js-upcomingFilterItem">
+                        <button data-soon-filter-button onclick="applySoonFilter(this, 2); sendEventToMetrika({location:'main',event_type:'click',event:'category',extra_params:{category_title: 'Экология' }});">
+                            <img src="/uploads/media/event_direction_image/0003/88/424ab27d0161e3421ade3c9b74095849c0966ac8.svg" alt="Экология">                                                            Экология
+                                                    </button>
+                    </div>
+                                                        <div data-soon-direction id="eventDirection4" class="mos-main_upcomingFilterItem js-upcomingFilterItem">
+                        <button data-soon-filter-button onclick="applySoonFilter(this, 4); sendEventToMetrika({location:'main',event_type:'click',event:'category',extra_params:{category_title: 'Культура' }});">
+                            <img src="/uploads/media/event_direction_image/0003/88/8aec48f5493d73839226eed39c80cca41f2d543b.svg" alt="Культура">                                                            Культура
+                                                    </button>
+                    </div>
+                                                        <div data-soon-direction id="eventDirection3" class="mos-main_upcomingFilterItem js-upcomingFilterItem">
+                        <button data-soon-filter-button onclick="applySoonFilter(this, 3); sendEventToMetrika({location:'main',event_type:'click',event:'category',extra_params:{category_title: 'Социальная сфера' }});">
+                            <img src="/uploads/media/event_direction_image/0003/88/87e705ce1af8c675af4b3204b632df87842286ad.svg" alt="Социальная сфера">                                                            Социальная сфера
+                                                    </button>
+                    </div>
+                                                        <div data-soon-direction id="eventDirection5" class="mos-main_upcomingFilterItem js-upcomingFilterItem">
+                        <button data-soon-filter-button onclick="applySoonFilter(this, 5); sendEventToMetrika({location:'main',event_type:'click',event:'category',extra_params:{category_title: 'Событийное волонтёрство' }});">
+                            <img src="/uploads/media/event_direction_image/0003/88/90ed3b327104382a991017b071bca6f9b1b270cc.svg" alt="Событийное волонтёрство">                                                            Событийное волонтёрство
+                                                    </button>
+                    </div>
+                                                        <div data-soon-direction id="eventDirection6" class="mos-main_upcomingFilterItem js-upcomingFilterItem">
+                        <button data-soon-filter-button onclick="applySoonFilter(this, 6); sendEventToMetrika({location:'main',event_type:'click',event:'category',extra_params:{category_title: 'Спорт' }});">
+                            <img src="/uploads/media/event_direction_image/0003/88/ad784e0b1f49e774f5f22308bc229a9254d80321.svg" alt="Спорт">                                                            Спорт
+                                                    </button>
+                    </div>
+                                                        <div data-soon-direction id="eventDirection7" class="mos-main_upcomingFilterItem js-upcomingFilterItem">
+                        <button data-soon-filter-button onclick="applySoonFilter(this, 7); sendEventToMetrika({location:'main',event_type:'click',event:'category',extra_params:{category_title: 'Патриотизм' }});">
+                            <img src="/uploads/media/event_direction_image/0003/88/bd4420edaa92fd3e9b1aefa3e1a38ece3add547e.svg" alt="Патриотизм">                                                            Патриотизм
+                                                    </button>
+                    </div>
+                                                        <div data-soon-direction id="eventDirection8" class="mos-main_upcomingFilterItem js-upcomingFilterItem">
+                        <button data-soon-filter-button onclick="applySoonFilter(this, 8); sendEventToMetrika({location:'main',event_type:'click',event:'category',extra_params:{category_title: 'Охрана здоровья' }});">
+                            <img src="/uploads/media/event_direction_image/0003/88/956992b352dfd6a81240b08ae337972b5c29c41d.svg" alt="Охрана здоровья">                                                            Охрана здоровья
+                                                    </button>
+                    </div>
+                                                        <div data-soon-direction id="eventDirection9" class="mos-main_upcomingFilterItem js-upcomingFilterItem">
+                        <button data-soon-filter-button onclick="applySoonFilter(this, 9); sendEventToMetrika({location:'main',event_type:'click',event:'category',extra_params:{category_title: 'Общественная безопасность' }});">
+                            <img src="/uploads/media/event_direction_image/0003/88/975bfdbb4a4b34dbd0770fa95dd50dd1fdc3304f.svg" alt="Общественная безопасность">                                                            Общественная безопасность
+                                                    </button>
+                    </div>
+                                                        <div data-soon-direction id="eventDirection10" class="mos-main_upcomingFilterItem js-upcomingFilterItem">
+                        <button data-soon-filter-button onclick="applySoonFilter(this, 10); sendEventToMetrika({location:'main',event_type:'click',event:'category',extra_params:{category_title: 'Медиа' }});">
+                            <img src="/uploads/media/event_direction_image/0003/88/97859cea8691da0707cf2198e9a499689e69cc77.svg" alt="Медиа">                                                            Медиа
+                                                    </button>
+                    </div>
+                                                        <div data-soon-direction id="eventDirection16" class="mos-main_upcomingFilterItem js-upcomingFilterItem">
+                        <button data-soon-filter-button onclick="applySoonFilter(this, 16); sendEventToMetrika({location:'main',event_type:'click',event:'category',extra_params:{category_title: 'Животные' }});">
+                            <img src="/uploads/media/event_direction_image/0003/88/876568da95e63886a15e5cf5b78a8b408d64d892.svg" alt="Животные">                                                            Животные
+                                                    </button>
+                    </div>
+                                                        <div data-soon-direction id="eventDirection18" class="mos-main_upcomingFilterItem js-upcomingFilterItem">
+                        <button data-soon-filter-button onclick="applySoonFilter(this, 18); sendEventToMetrika({location:'main',event_type:'click',event:'category',extra_params:{category_title: 'Помощь людям с ОВЗ' }});">
+                            <img src="/uploads/media/event_direction_image/0003/88/415d822834f0d97006363d451ef01066216926a9.svg" alt="Помощь людям с ОВЗ">                                                            Помощь людям с ОВЗ
+                                                    </button>
+                    </div>
+                            </div>
+        </div>
+        <div class="mos-base_slider js-slider js-slider-upcoming" id="upcoming">
+            <div data-soon-block-wrapper class="swiper-wrapper">
+                                                                                                                                                
+                                                                
+                                        <article class="mos-main_cardItem swiper-slide">
+                        <div class="mos-main_cardItemInner js-focus-element" tabindex="0">
+                            <a href="/new-event/view/obshchestvennyy-kontrol-za-hodom-kapitalnogo-remonta-ot-associacii-zhkh-kontrol-goroda-moskvy-mart--dekabr-2026" class="mos-main_cardItemImg">
+                                                                    <img src="/cache/2/7/c/1/0/27c100ba6f9569d506bbcebe151cecaf490472fe.jpeg" alt="Общественный контроль за ходом капитального ремонта от Ассоциации «ЖКХ контроль города Москвы» (март — декабрь 2026)" title="Общественный контроль за ходом капитального ремонта от Ассоциации «ЖКХ контроль города Москвы» (март — декабрь 2026)">
+                                                            </a>
+                            <div class="mos-main_cardItemInfo">
+                                <div>
+                                    <div class="mos-main_cardItemTitle"><a href="/new-event/view/obshchestvennyy-kontrol-za-hodom-kapitalnogo-remonta-ot-associacii-zhkh-kontrol-goroda-moskvy-mart--dekabr-2026">Общественный контроль за ходом капитального ремонта от Ассоциации «ЖКХ контроль города Москвы» (март — декабрь 2026)</a></div>
+                                    <div class="mos-main_cardItemDesc">
+                                                                                    Москвичей приглашают присоединиться к контролю за ходом реализации региональной программы капитального ремонта на территор...
+                                                                            </div>
+                                </div>
+                                <div>
+                                    <div class="mos-main_cardItemDate">19 марта - 31 декабря</div>
+                                                                            <div class="mos-main_cardItemAddress">ЮАО</div>
+                                                                        <div class="mos-main_cardItemBtn">
+                                        <a href="/new-event/view/obshchestvennyy-kontrol-za-hodom-kapitalnogo-remonta-ot-associacii-zhkh-kontrol-goroda-moskvy-mart--dekabr-2026">Узнать больше</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </article>
+                                                                                                                                                
+                                                                
+                                        <article class="mos-main_cardItem swiper-slide">
+                        <div class="mos-main_cardItemInner js-focus-element" tabindex="0">
+                            <a href="/new-event/view/nabor-volontyorov-dlya-proekta-missiya-pamyati-krasnyy-krest-v-gody-velikoy-otechestvennoy-voyny-ot-rossiyskogo-krasnogo-kresta-mart--dekabr-2026" class="mos-main_cardItemImg">
+                                                                    <img src="/cache/4/3/6/0/4/43604ec7b82b1a5d89b2d42f59e93e9ebaede485.jpeg" alt="Набор волонтёров для проекта «Миссия памяти» от Российского Красного Креста (март — декабрь 2026)" title="Набор волонтёров для проекта «Миссия памяти» от Российского Красного Креста (март — декабрь 2026)">
+                                                            </a>
+                            <div class="mos-main_cardItemInfo">
+                                <div>
+                                    <div class="mos-main_cardItemTitle"><a href="/new-event/view/nabor-volontyorov-dlya-proekta-missiya-pamyati-krasnyy-krest-v-gody-velikoy-otechestvennoy-voyny-ot-rossiyskogo-krasnogo-kresta-mart--dekabr-2026">Набор волонтёров для проекта «Миссия памяти» от Российского Красного Креста (март — декабрь 2026)</a></div>
+                                    <div class="mos-main_cardItemDesc">
+                                                                                    Российский Красный Крест и Ресурсный центр «Мосволонтёр» запускают долгосрочный проект по углубленному изучени...
+                                                                            </div>
+                                </div>
+                                <div>
+                                    <div class="mos-main_cardItemDate">23 марта - 15 декабря</div>
+                                                                            <div class="mos-main_cardItemAddress">САО</div>
+                                                                        <div class="mos-main_cardItemBtn">
+                                        <a href="/new-event/view/nabor-volontyorov-dlya-proekta-missiya-pamyati-krasnyy-krest-v-gody-velikoy-otechestvennoy-voyny-ot-rossiyskogo-krasnogo-kresta-mart--dekabr-2026">Узнать больше</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </article>
+                                                                                                                                                
+                                                                
+                                        <article class="mos-main_cardItem swiper-slide">
+                        <div class="mos-main_cardItemInner js-focus-element" tabindex="0">
+                            <a href="/new-event/view/volontyorskaya-pomoshch-na-stoyke-sprosi-menya-o-donorstve-ot-rossiyskogo-krasnogo-kresta-mart--iyun-2026" class="mos-main_cardItemImg">
+                                                                    <img src="/cache/2/8/3/5/7/28357518f0980cb35cec183e9769cfccaf6e1215.jpeg" alt="Волонтёрская помощь на стойке «Спроси меня о донорстве» от Российского Красного Креста (март — июнь 2026)" title="Волонтёрская помощь на стойке «Спроси меня о донорстве» от Российского Красного Креста (март — июнь 2026)">
+                                                            </a>
+                            <div class="mos-main_cardItemInfo">
+                                <div>
+                                    <div class="mos-main_cardItemTitle"><a href="/new-event/view/volontyorskaya-pomoshch-na-stoyke-sprosi-menya-o-donorstve-ot-rossiyskogo-krasnogo-kresta-mart--iyun-2026">Волонтёрская помощь на стойке «Спроси меня о донорстве» от Российского Красного Креста (март — июнь 2026)</a></div>
+                                    <div class="mos-main_cardItemDesc">
+                                                                                    Российский Красный Крест ведёт активную работу по преодолению дефицита доноров костного мозга. Каждый день нехватка доноро...
+                                                                            </div>
+                                </div>
+                                <div>
+                                    <div class="mos-main_cardItemDate">23 марта - 14 июня</div>
+                                                                            <div class="mos-main_cardItemAddress">ЮЗАО</div>
+                                                                        <div class="mos-main_cardItemBtn">
+                                        <a href="/new-event/view/volontyorskaya-pomoshch-na-stoyke-sprosi-menya-o-donorstve-ot-rossiyskogo-krasnogo-kresta-mart--iyun-2026">Узнать больше</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </article>
+                                                    <article class="mos-main_cardItem mos-main_upcomingCard swiper-slide js-more_events">
+                        <div class="mos-main_upcomingCardInner">
+                            <div class="mos-main_upcomingCardLogo">
+                                                                    <img src="/build/images/mosvolonter_new/svg/matryoshka.svg" alt="Все события">
+                                                            </div>
+                            <div>
+                                <div class="mos-main_upcomingCardTitle js-events_length">Ещё 90</div>
+                                <div class="mos-main_upcomingCardDesc js-events_more_length">
+                                    событий доступно для волонтёров
+                                                                    </div>
+                                <div class="mos-main_upcomingCardBtn"><a href="/events" class="mos-base_btn mos-base_btn--blue js-events_more_link" onclick="sendEventToMetrika({location:'main',event_type:'click',event:'	all_events_button',extra_params:{category_title: 'Все события' }});">Смотреть все</a></div>
+                            </div>
+                        </div>
+                    </article>
+                            </div>
+            <div class="mos-base_nav mos-base_nav--white">
+                <div class="mos-base_navArrow swiper-button-prev" onclick="sendEventToMetrika({location:'main',event_type:'click',event:'upcoming_event_arrow',extra_params:{}});"></div>
+                <div class="mos-base_navArrow swiper-button-next" onclick="sendEventToMetrika({location:'main',event_type:'click',event:'upcoming_event_arrow',extra_params:{}});"></div>
+            </div>
+        </div>
+        <div class="mos-base_noResult hidden">
+            <div class="mos-base_noResultInfo">
+                <div>
+                    <div class="h3">Пока нет мероприятий по направлению «<span class="js-soon-direction"></span>»</div>
+                    <p>Но есть другие мероприятия, где вас ждут уже сейчас.</p>
+                    <a href="/events" class="mos-base_btn mos-base_btn--blue">Все мероприятия</a>
+                </div>
+                <img src="/build/images/mosvolonter_new/svg/empty.svg" alt="">
+            </div>
+                            
+
+    <div class="mos-base_noResultNetwork">
+  <h4>Следите за новыми событиями в социальных сетях</h4>
+  <div>
+    <div class="mos-base_noResultNetworkItem">
+      <a href="/redirect/check?url=https%3A%2F%2Ft.me%2Fmosvol" class="mos-base_noResultNetworkBtn mos-base_noResultNetworkBtn--telegram" rel="noopener noreferrer"><span>Telegram</span></a>
+      <div class="mos-base_noResultNetworkCount">22+ тыс.</div>
+    </div>
+    <div class="mos-base_noResultNetworkItem">
+      <a href="/redirect/check?url=https%3A%2F%2Fvk.com%2Fmosvolonter" class="mos-base_noResultNetworkBtn mos-base_noResultNetworkBtn--vk" rel="noopener noreferrer"><span>Вконтакте</span></a>
+      <div class="mos-base_noResultNetworkCount">51,1+ тыс.</div>
+    </div>
+  </div>
+</div>
+
+
+                    </div>
+    </section><script>
+        let params = {
+            category_title: 'Все события',
+        };
+
+        document.querySelector('#eventDirectionAllSearch').addEventListener('click', e => {
+            sendEventToMetrika({
+                location:'main',
+                event_type:'click',
+                event:'all_events_button',
+                extra_params: {category_title: `${params.category_title}` }});
+        })
+    </script><script src="/js/soon.js"></script><style>
+        .js-moreSelection[disabled] {
+            background: #bcc4cf;
+        }
+        [data-soon-filter-button][disabled] {
+            color: rgb(245, 245, 245);
+            background-color: rgba(230, 233, 237, 1);
+            border-color: rgba(230, 233, 237, 1);
+            cursor: auto
+        }
+    </style><section data-first-selections="first_selections[]=3&first_selections[]=9" class="mos-main_collections">
+        <h2>Подборки событий</h2>
+        <div data-selection-block-wrapper class="mos-main_collectionsWrap">
+                                            <article class="mos-main_collectionsItem ">
+                    <div class="mos-main_collectionsImg">
+                        <a href="/events/?filter%5Btags%5D%5B%5D=442&collection=3" class="mos-main_collectionsLink" onclick="sendEventToMetrika({location:'main',event_type:'click',event:'event_selection',extra_params:{selection_title: 'Поддержите бойцов на передовой своей заботой',amount_events: '17'}});"><img src="/uploads/media/event_selection_image/0003/88/4dbbd63a30e2d41031fabe301b949992f7ef153c.jpg" alt="Поддержите бойцов на передовой своей заботой" title="Поддержите бойцов на передовой своей заботой"></a>
+                    </div>
+                    <div class="mos-main_collectionsInfo">
+                        <div class="mos-main_collectionsCount">
+                            17         событий
+
+                        </div>
+                        <div class="mos-main_collectionsTitle">
+                            <a href="/events/?filter%5Btags%5D%5B%5D=442&collection=3" onclick="sendEventToMetrika({location:'main',event_type:'click',event:'event_selection',extra_params:{selection_title: 'Поддержите бойцов на передовой своей заботой',amount_events: '17'}});">Поддержите бойцов на передовой своей заботой</a>
+                        </div>
+                    </div>
+                </article>
+                                            <article class="mos-main_collectionsItem ">
+                    <div class="mos-main_collectionsImg">
+                        <a href="/events/?filter%5Btags%5D%5B%5D=456&collection=9" class="mos-main_collectionsLink" onclick="sendEventToMetrika({location:'main',event_type:'click',event:'event_selection',extra_params:{selection_title: 'Помогайте тем, у кого лапки',amount_events: '10'}});"><img src="/uploads/media/event_selection_image/0004/05/c1a914900a9af7640709ed752de24279194d4a95.jpg" alt="Помогайте тем, у кого лапки" title="Помогайте тем, у кого лапки"></a>
+                    </div>
+                    <div class="mos-main_collectionsInfo">
+                        <div class="mos-main_collectionsCount">
+                            10         событий
+
+                        </div>
+                        <div class="mos-main_collectionsTitle">
+                            <a href="/events/?filter%5Btags%5D%5B%5D=456&collection=9" onclick="sendEventToMetrika({location:'main',event_type:'click',event:'event_selection',extra_params:{selection_title: 'Помогайте тем, у кого лапки',amount_events: '10'}});">Помогайте тем, у кого лапки</a>
+                        </div>
+                    </div>
+                </article>
+            
+            <a style="display: none" data-selection-navigation href="/_ajax/plist/22697/1/"></a>
+        </div>
+
+            </section><section class="mos-main_news">
+    <div class="mos-main_newsTop">
+        <h2>Новости</h2>
+        <div class="mos-base_allLink"><a href="/news" onclick="sendEventToMetrika({location:'main',event_type:'click',event:'all_news',extra_params:{}});">Все новости</a></div>
+    </div>
+    <div class="mos-base_slider js-slider" id="news">
+        <div class="swiper-wrapper">
+                            <article class="mos-main_newsItem swiper-slide">
+                    <div class="mos-main_newsItemImg">
+                                                <a href="https://mosvolonter.ru/news/view/moskvichey-priglashayut-pogulyat-i-pokormit-bezdomnyh-zhivotnyh-v-priyutah" class="mos-main_newsItemLink" onclick="sendEventToMetrika({location:'main',event_type:'click',event:'news',extra_params:{news_title: 'Москвичей приглашают погулять и покормить бездомных животных в приютах',news_date: '14 мая' }});">
+                                                            <img src="/cache/7/d/6/c/6/7d6c6c4a5271437cb127d0b7c35af01498ade5df.jpeg" alt="Москвичей приглашают погулять и покормить бездомных животных в приютах" title="Москвичей приглашают погулять и покормить бездомных животных в приютах">
+                                                    </a>
+                    </div>
+                    <div class="mos-main_newsItemTitle"><a href="https://mosvolonter.ru/news/view/moskvichey-priglashayut-pogulyat-i-pokormit-bezdomnyh-zhivotnyh-v-priyutah" onclick="sendEventToMetrika({location:'main',event_type:'click',event:'news',extra_params:{news_title: 'Москвичей приглашают погулять и покормить бездомных животных в приютах',news_date: '14 мая' }});">Москвичей приглашают погулять и покормить бездомных животных в приютах</a></div>
+                    <div class="mos-main_newsItemDate">14 мая</div>
+                </article>
+                            <article class="mos-main_newsItem swiper-slide">
+                    <div class="mos-main_newsItemImg">
+                                                <a href="https://mosvolonter.ru/news/view/stolichnye-volontyory-sobrali-dlya-boycov-svo-gumanitarnuyu-pomoshch-k-dnyu-pobedy" class="mos-main_newsItemLink" onclick="sendEventToMetrika({location:'main',event_type:'click',event:'news',extra_params:{news_title: 'Столичные волонтёры собрали для бойцов СВО гуманитарную помощь к Дню Победы',news_date: '13 мая' }});">
+                                                            <img src="/cache/c/2/6/c/7/c26c751bc7235b1314d34587bb28a80f64183af2.jpeg" alt="Столичные волонтёры собрали для бойцов СВО гуманитарную помощь к Дню Победы" title="Столичные волонтёры собрали для бойцов СВО гуманитарную помощь к Дню Победы">
+                                                    </a>
+                    </div>
+                    <div class="mos-main_newsItemTitle"><a href="https://mosvolonter.ru/news/view/stolichnye-volontyory-sobrali-dlya-boycov-svo-gumanitarnuyu-pomoshch-k-dnyu-pobedy" onclick="sendEventToMetrika({location:'main',event_type:'click',event:'news',extra_params:{news_title: 'Столичные волонтёры собрали для бойцов СВО гуманитарную помощь к Дню Победы',news_date: '13 мая' }});">Столичные волонтёры собрали для бойцов СВО гуманитарную помощь к Дню Победы</a></div>
+                    <div class="mos-main_newsItemDate">13 мая</div>
+                </article>
+                            <article class="mos-main_newsItem swiper-slide">
+                    <div class="mos-main_newsItemImg">
+                                                <a href="https://mosvolonter.ru/news/view/pobeda-v-serdce-kazhdogo-pochemu-stolichnye-volontry-uchastvuyut-v-patrioticheskih-meropriyatiyah" class="mos-main_newsItemLink" onclick="sendEventToMetrika({location:'main',event_type:'click',event:'news',extra_params:{news_title: 'Победа в сердце каждого: почему столичные волонтёры участвуют в патриотических мероприятиях',news_date: '11 мая' }});">
+                                                            <img src="/cache/1/1/f/a/2/11fa23fb2e9e0f2a26172a2ba861cc9e9f1576a1.jpeg" alt="Победа в сердце каждого: почему столичные волонтёры участвуют в патриотических мероприятиях" title="Победа в сердце каждого: почему столичные волонтёры участвуют в патриотических мероприятиях">
+                                                    </a>
+                    </div>
+                    <div class="mos-main_newsItemTitle"><a href="https://mosvolonter.ru/news/view/pobeda-v-serdce-kazhdogo-pochemu-stolichnye-volontry-uchastvuyut-v-patrioticheskih-meropriyatiyah" onclick="sendEventToMetrika({location:'main',event_type:'click',event:'news',extra_params:{news_title: 'Победа в сердце каждого: почему столичные волонтёры участвуют в патриотических мероприятиях',news_date: '11 мая' }});">Победа в сердце каждого: почему столичные волонтёры участвуют в патриотических мероприятиях</a></div>
+                    <div class="mos-main_newsItemDate">11 мая</div>
+                </article>
+                            <article class="mos-main_newsItem swiper-slide">
+                    <div class="mos-main_newsItemImg">
+                                                <a href="https://mosvolonter.ru/news/view/idyot-priyom-zayavok-na-forum-dobrino-2026--tri-smeny-dlya-liderov-obshchestvennyh-izmeneniy" class="mos-main_newsItemLink" onclick="sendEventToMetrika({location:'main',event_type:'click',event:'news',extra_params:{news_title: 'Идёт приём заявок на форум «Добрино» 2026 — три смены для лидеров общественных изменений',news_date: '08 мая' }});">
+                                                            <img src="/cache/2/c/4/0/6/2c4066c8dedd8c929d1a58e560e3ec9dcd6c1c9c.jpeg" alt="Идёт приём заявок на форум «Добрино» 2026 — три смены для лидеров общественных изменений" title="Идёт приём заявок на форум «Добрино» 2026 — три смены для лидеров общественных изменений">
+                                                    </a>
+                    </div>
+                    <div class="mos-main_newsItemTitle"><a href="https://mosvolonter.ru/news/view/idyot-priyom-zayavok-na-forum-dobrino-2026--tri-smeny-dlya-liderov-obshchestvennyh-izmeneniy" onclick="sendEventToMetrika({location:'main',event_type:'click',event:'news',extra_params:{news_title: 'Идёт приём заявок на форум «Добрино» 2026 — три смены для лидеров общественных изменений',news_date: '08 мая' }});">Идёт приём заявок на форум «Добрино» 2026 — три смены для лидеров общественных изменений</a></div>
+                    <div class="mos-main_newsItemDate">08 мая</div>
+                </article>
+                            <article class="mos-main_newsItem swiper-slide">
+                    <div class="mos-main_newsItemImg">
+                                                <a href="https://mosvolonter.ru/news/view/v-stolice-otkrylsya-centr-privlecheniya-i-podgotovki-volontyorov-mezhdunarodnogo-festivalya-molodyozhi" class="mos-main_newsItemLink" onclick="sendEventToMetrika({location:'main',event_type:'click',event:'news',extra_params:{news_title: 'В столице открылся центр привлечения и подготовки волонтёров Международного фестиваля молодёжи',news_date: '07 мая' }});">
+                                                            <img src="/cache/9/a/0/5/9/9a059969b006a5189eb2176dfd324e1c4effad90.jpeg" alt="В столице открылся центр привлечения и подготовки волонтёров Международного фестиваля молодёжи" title="В столице открылся центр привлечения и подготовки волонтёров Международного фестиваля молодёжи">
+                                                    </a>
+                    </div>
+                    <div class="mos-main_newsItemTitle"><a href="https://mosvolonter.ru/news/view/v-stolice-otkrylsya-centr-privlecheniya-i-podgotovki-volontyorov-mezhdunarodnogo-festivalya-molodyozhi" onclick="sendEventToMetrika({location:'main',event_type:'click',event:'news',extra_params:{news_title: 'В столице открылся центр привлечения и подготовки волонтёров Международного фестиваля молодёжи',news_date: '07 мая' }});">В столице открылся центр привлечения и подготовки волонтёров Международного фестиваля молодёжи</a></div>
+                    <div class="mos-main_newsItemDate">07 мая</div>
+                </article>
+                            <article class="mos-main_newsItem swiper-slide">
+                    <div class="mos-main_newsItemImg">
+                                                <a href="https://mosvolonter.ru/news/view/kak-stolichnye-volontyory-pomogayut-veteranam-priezzhayushchim-na-prazdnovanie-81-y-godovshchiny-pobedy" class="mos-main_newsItemLink" onclick="sendEventToMetrika({location:'main',event_type:'click',event:'news',extra_params:{news_title: 'Как столичные волонтёры помогают ветеранам, приезжающим на празднование 81-й годовщины Победы',news_date: '06 мая' }});">
+                                                            <img src="/cache/1/4/3/f/2/143f23ad8abfb4c591cc119caa10ed40c48c412d.jpeg" alt="Как столичные волонтёры помогают ветеранам, приезжающим на празднование 81-й годовщины Победы" title="Как столичные волонтёры помогают ветеранам, приезжающим на празднование 81-й годовщины Победы">
+                                                    </a>
+                    </div>
+                    <div class="mos-main_newsItemTitle"><a href="https://mosvolonter.ru/news/view/kak-stolichnye-volontyory-pomogayut-veteranam-priezzhayushchim-na-prazdnovanie-81-y-godovshchiny-pobedy" onclick="sendEventToMetrika({location:'main',event_type:'click',event:'news',extra_params:{news_title: 'Как столичные волонтёры помогают ветеранам, приезжающим на празднование 81-й годовщины Победы',news_date: '06 мая' }});">Как столичные волонтёры помогают ветеранам, приезжающим на празднование 81-й годовщины Победы</a></div>
+                    <div class="mos-main_newsItemDate">06 мая</div>
+                </article>
+                            <article class="mos-main_newsItem swiper-slide">
+                    <div class="mos-main_newsItemImg">
+                                                <a href="https://mosvolonter.ru/news/view/podarki-uchastnikam-svo-detyam-iz-novyh-regionov-i-priyutam-dlya-zhivotnyh-kak-pomoch-na-festivale-moskovskaya-vesna" class="mos-main_newsItemLink" onclick="sendEventToMetrika({location:'main',event_type:'click',event:'news',extra_params:{news_title: 'Подарки участникам СВО, детям из новых регионов и приютам для животных: как помочь на фестивале «Московская весна»',news_date: '30 апреля' }});">
+                                                            <img src="/cache/b/d/3/7/7/bd377a44543d043d8fe68095d28a50e62fc744d7.jpeg" alt="Подарки участникам СВО, детям из новых регионов и приютам для животных: как помочь на фестивале «Московская весна»" title="Подарки участникам СВО, детям из новых регионов и приютам для животных: как помочь на фестивале «Московская весна»">
+                                                    </a>
+                    </div>
+                    <div class="mos-main_newsItemTitle"><a href="https://mosvolonter.ru/news/view/podarki-uchastnikam-svo-detyam-iz-novyh-regionov-i-priyutam-dlya-zhivotnyh-kak-pomoch-na-festivale-moskovskaya-vesna" onclick="sendEventToMetrika({location:'main',event_type:'click',event:'news',extra_params:{news_title: 'Подарки участникам СВО, детям из новых регионов и приютам для животных: как помочь на фестивале «Московская весна»',news_date: '30 апреля' }});">Подарки участникам СВО, детям из новых регионов и приютам для животных: как помочь на фестивале «Московская весна»</a></div>
+                    <div class="mos-main_newsItemDate">30 апреля</div>
+                </article>
+                            <article class="mos-main_newsItem swiper-slide">
+                    <div class="mos-main_newsItemImg">
+                                                <a href="https://mosvolonter.ru/news/view/v-moskve-otkryt-nabor-v-shkolu-volontyorov-restavratorov" class="mos-main_newsItemLink" onclick="sendEventToMetrika({location:'main',event_type:'click',event:'news',extra_params:{news_title: 'В Москве открыт набор в школу волонтёров-реставраторов',news_date: '28 апреля' }});">
+                                                            <img src="/cache/e/2/0/7/d/e207dc919a1a74e2a40ec6119b81dad44b613883.jpeg" alt="В Москве открыт набор в школу волонтёров-реставраторов" title="В Москве открыт набор в школу волонтёров-реставраторов">
+                                                    </a>
+                    </div>
+                    <div class="mos-main_newsItemTitle"><a href="https://mosvolonter.ru/news/view/v-moskve-otkryt-nabor-v-shkolu-volontyorov-restavratorov" onclick="sendEventToMetrika({location:'main',event_type:'click',event:'news',extra_params:{news_title: 'В Москве открыт набор в школу волонтёров-реставраторов',news_date: '28 апреля' }});">В Москве открыт набор в школу волонтёров-реставраторов</a></div>
+                    <div class="mos-main_newsItemDate">28 апреля</div>
+                </article>
+                            <article class="mos-main_newsItem swiper-slide">
+                    <div class="mos-main_newsItemImg">
+                                                <a href="https://mosvolonter.ru/news/view/stat-donorom-i-spasat-zhizni-glavnoe-o-volontyorstve-v-zdravoohranenii" class="mos-main_newsItemLink" onclick="sendEventToMetrika({location:'main',event_type:'click',event:'news',extra_params:{news_title: 'Стать донором и спасать жизни: главное о волонтёрстве в здравоохранении',news_date: '25 апреля' }});">
+                                                            <img src="/cache/a/b/0/5/5/ab05542dd2ce5d3930912477fe73f0c5f7ee7316.jpeg" alt="Стать донором и спасать жизни: главное о волонтёрстве в здравоохранении" title="Стать донором и спасать жизни: главное о волонтёрстве в здравоохранении">
+                                                    </a>
+                    </div>
+                    <div class="mos-main_newsItemTitle"><a href="https://mosvolonter.ru/news/view/stat-donorom-i-spasat-zhizni-glavnoe-o-volontyorstve-v-zdravoohranenii" onclick="sendEventToMetrika({location:'main',event_type:'click',event:'news',extra_params:{news_title: 'Стать донором и спасать жизни: главное о волонтёрстве в здравоохранении',news_date: '25 апреля' }});">Стать донором и спасать жизни: главное о волонтёрстве в здравоохранении</a></div>
+                    <div class="mos-main_newsItemDate">25 апреля</div>
+                </article>
+                            <article class="mos-main_newsItem swiper-slide">
+                    <div class="mos-main_newsItemImg">
+                                                <a href="https://mosvolonter.ru/news/view/kak-prohodit-patrioticheskaya-podgotovka-volontyorskogo-korpusa" class="mos-main_newsItemLink" onclick="sendEventToMetrika({location:'main',event_type:'click',event:'news',extra_params:{news_title: 'Как проходит патриотическая подготовка волонтёрского корпуса',news_date: '23 апреля' }});">
+                                                            <img src="/cache/4/9/a/7/b/49a7b233dd71ec5d9f7c8100f7f99cb5b4ef1026.jpeg" alt="Как проходит патриотическая подготовка волонтёрского корпуса" title="Как проходит патриотическая подготовка волонтёрского корпуса">
+                                                    </a>
+                    </div>
+                    <div class="mos-main_newsItemTitle"><a href="https://mosvolonter.ru/news/view/kak-prohodit-patrioticheskaya-podgotovka-volontyorskogo-korpusa" onclick="sendEventToMetrika({location:'main',event_type:'click',event:'news',extra_params:{news_title: 'Как проходит патриотическая подготовка волонтёрского корпуса',news_date: '23 апреля' }});">Как проходит патриотическая подготовка волонтёрского корпуса</a></div>
+                    <div class="mos-main_newsItemDate">23 апреля</div>
+                </article>
+                    </div>
+        <div class="mos-base_nav mos-base_nav--white">
+            <div class="mos-base_navArrow swiper-button-prev" onclick="sendEventToMetrika({location:'main',event_type:'click',event:'news_arrow',extra_params:{}});"></div>
+            <div class="mos-base_navArrow swiper-button-next" onclick="sendEventToMetrika({location:'main',event_type:'click',event:'news_arrow',extra_params:{}});"></div>
+        </div>
+    </div>
+</section><section class="mos-main_help">
+  <div class="mos-main_helpFon"></div>
+                    <h2><span id="easy">Помогать с нами — просто</span></h2>
+                    <div class="mos-main_helpWrap">
+                        <div>
+                            <ol>
+                                <li>
+                                    <span>Выберите событие</span> Подберите то, что будет близко и удобно именно вам
+                                </li>
+                                <li>
+                                    <span>Зарегистрируйтесь</span> Это займёт не более 5 минут
+                                </li>
+                                <li>
+                                    <span>Помогайте другим</span> Наблюдайте результат вашей помощи<br> и накапливайте опыт
+                                </li>
+                            </ol>
+                            <a href="/events" class="mos-base_btn mos-base_btn--white">Начать помогать</a>
+                        </div>
+                        <div class="mos-main_helpInfo js-slider-help">
+                            <div class="swiper-wrapper">
+                                <div class="mos-main_helpItem mos-main_helpItem--teach swiper-slide">
+                                    <h3>Всему научим</h3>
+                                    <div class="mos-main_helpItemDesc">Важно только ваше желание помогать, всё остальное —<br> инструктажи, обучение и интересные события — за нами.</div>
+                                </div>
+                                <div class="mos-main_helpItem mos-main_helpItem--support swiper-slide">
+                                    <h3>Поддержим на всём пути</h3>
+                                    <div class="mos-main_helpItemDesc">Ответим на все вопросы, поможем справиться с задачей<br> и будем всегда рядом.</div>
+                                </div>
+                                <div class="mos-main_helpItem mos-main_helpItem--help swiper-slide">
+                                    <h3>Поможем осознать вашу значимость</h3>
+                                    <div class="mos-main_helpItemDesc">За вашу помощь вас ждут приятные бонусы, преимущества<br> при поступлении и главное — благодарность от тех, кому<br> вы помогли.</div>
+                                </div>
+                            </div>
+                            <div class="mos-base_nav mos-base_nav--white">
+                                <div class="mos-base_navArrow swiper-button-prev"></div>
+                                <div class="mos-base_navArrow swiper-button-next"></div>
+                            </div>
+                        </div>
+                    </div>
+                </section><section class="mos-main_about">
+  <h2>
+    <span id="about">О «Мосволонтёре»</span></h2>
+  <div class="mos-main_aboutWrap">
+
+
+                        
+
+    <article class="mos-main_aboutItem mos-main_aboutItem--first">
+  <div class="mos-main_aboutItemInner">
+    <div class="mos-main_aboutItemText">«Мосволонтёр» — крупнейший центр добровольчества в России и команда единомышленников. Уже 11 лет мы вместе помогаем тем, кто действительно в этом нуждается.</div>
+    <div class="mos-main_aboutItemTitle">
+      2,6+ тыс.
+      <span>волонтёрских корпусов <br> было сформировано</span>
+        </div>
+    </div>
+</article>
+
+
+                        
+
+    <article class="mos-main_aboutItem mos-main_aboutItem--img">
+  <div class="mos-main_aboutItemInner">
+    <img src="build/images/mosvolonter_new/about.jpg" alt="">
+  </div>
+</article>
+
+
+                        
+
+    <article class="mos-main_aboutItem mos-main_aboutItem--face">
+                            <div class="mos-main_aboutItemInner">
+                                <div class="mos-main_aboutItemImg">
+                                    <img src="build/images/mosvolonter_new/face.jpg" alt="" class="desktop">
+                                    <img src="build/images/mosvolonter_new/face-mob.png" alt="" class="mobile">
+                                </div>
+                                <div>
+                                    <div class="mos-main_aboutItemText">Мы объединяем волонтёров по более чем 10 направлениям добровольчества.</div>
+                                    <div class="mos-main_aboutItemLink"><a href="/programs" target="_blank">Узнать больше</a></div>
+                                </div>
+                                <div class="mos-main_aboutItemTitle">
+                                    1,6+ млн.
+                                    <span>волонтёров уже помогают столице</span>
+                                </div>
+                            </div>
+                        </article>
+
+
+                        
+
+    <article class="mos-main_aboutItem">
+                            <div class="mos-main_aboutItemInner">
+                                <div>
+                                    <div class="mos-main_aboutItemText">Наши волонтёрские окружные центры «Доброе место» работают в разных округах столицы, чтобы участвовать в волонтёрском движении, обучаться и помогать можно было рядом с домом.</div>
+                                    <div class="mos-main_aboutItemLink"><a href="/contacts" target="_blank">Узнать больше</a></div>
+                                </div>
+                                <div class="mos-main_aboutItemBottom">
+                                    <div class="mos-main_aboutItemTitle">
+                                        10
+                                        <span>«Добрых мест» ежедневно<br> открыты для москвичей</span>
+                                    </div>
+                                    <div class="mos-main_aboutItemIcon"><img role="img" src="build/images/mosvolonter_new/svg/icon-about1.svg" alt=""></div>
+                                </div>
+                            </div>
+                        </article>
+
+
+                        
+
+    <article class="mos-main_aboutItem">
+                            <div class="mos-main_aboutItemInner">
+                                <div>
+                                    <div class="mos-main_aboutItemText">С нами каждый может найти свой путь в волонтёрстве вне зависимости от возраста, опыта, знаний и навыков — от новичка до организатора волонтёрского корпуса. Всегда поможет наша команда экспертов и обучение.</div>
+                                    <div class="mos-main_aboutItemLink"><a href="/education" target="_blank">Узнать больше</a></div>
+                                </div>
+                                <div class="mos-main_aboutItemBottom">
+                                    <div class="mos-main_aboutItemTitle">
+                                        118+ тыс.
+                                        <span>людей прошли<br> обучение волонтёрству</span>
+                                    </div>
+                                    <div class="mos-main_aboutItemIcon"><img role="img" src="build/images/mosvolonter_new/svg/icon-about2.svg" alt=""></div>
+                                </div>
+                            </div>
+                        </article>
+
+
+                        
+
+    <article class="mos-main_aboutItem">
+                            <div class="mos-main_aboutItemInner">
+                                <div>
+                                    <div class="mos-main_aboutItemText">Мы создали гибкую систему сервисов для партнёров, которая помогает решать самые разные задачи: найти волонтёров, организовать обучение, создать волонтёрский центр и многие другие.</div>
+                                    <div class="mos-main_aboutItemLink"><a href="for-partners" target="_blank">Узнать больше</a></div>
+                                </div>
+                                <div class="mos-main_aboutItemBottom">
+                                    <div class="mos-main_aboutItemTitle">
+                                        3,3+ тыс.
+                                        <span>организаций с нами</span>
+                                    </div>
+                                    <div class="mos-main_aboutItemIcon"><img role="img" src="build/images/mosvolonter_new/svg/icon-about3.svg" alt=""></div>
+                                </div>
+                            </div>
+                        </article>
+
+
+                        
+
+    </div>
+</section><div class="mos-main_mayor">
+                        <div class="mos-main_mayorPhoto">
+                            <img src="/uploads/media/default/0003/88/ac12e5b5c8d9a822e18edf1dcf5abdb4ef23377d.png" width="200" height="200" alt="Мэр Москвы, Сергей Собянин">
+                            <span>Мэр Москвы<br>
+                            Сергей Собянин</span>
+                        </div>
+                        <div>
+                            <div class="mos-main_mayorTitle">Дорогие друзья!</div>
+                            <div class="js-show-text">
+                                <p>Жизнь нашего города невозможно представить без помощи большой команды волонтёров. Добровольческое сообщество Москвы объединяет отзывчивых, талантливых и открытых новому людей разных возрастов и профессий.     Масштабы волонтёрского движения в столице впечатляют: добровольцы активно участвуют в социальной жизни своего района и помогают проводить события международного уровня.</p>
+
+                                <p>Город ценит волонтёров и поддерживает их в стремлении быть полезными обществу. Мы развиваем инфраструктуру в округах, создаём условия для обучения, творческого и профессионального развития, помогаем воплощать собственные важные инициативы. Стать частью команды волонтёров может каждый, главное – желание помогать.</p>
+
+                                <p>Искренне благодарю вас за личный вклад в развитие добровольческого сообщества Москвы!</p>
+                            </div>
+                            <button type="text" class="mos-main_mayorFullText js-full-text">Показать полностью</button>
+                        </div>
+                    </div>
+
+                    <section class="mos-main_bottom">
+                        <?xml encoding="UTF-8"><div class="mos-main_newsletter">
+    <div class="mos-main_newsletterFon"></div>
+    <div class="mos-main_newsletterForm">
+        <h3>Подпишитесь на рассылку — узнавайте о новых событиях и актуальных новостях первыми</h3>
+        <div class="mos-main_newsletterFormInner">
+            <form class="js-subscribe-validate" data-form>
+                <label for="news_letter">Электронная почта</label>
+                <div class="mos-base_field mos-base_field--noBorder" data-field-holder>
+                    <div class="mos-base_error" data-field-error><img role="img" src="/build/images/mosvolonter_new/svg/error.svg" alt=""><span></span></div>
+                    <div class="mos-main_newsletterFormField">
+                        <input type="text" id="news_letter" class="mos-base_input" name="email">
+                        <button type="submit" class="mos-base_btn mos-base_btn--blue">Подписаться</button>
+                    </div>
+                </div>
+                <div class="mos-main_newsletterFormDesc">Нажимая на кнопку «Подписаться», вы даёте согласие на <a href="/build/docs/mosvolonter/%D0%A1%D0%BE%D0%B3%D0%BB%D0%B0%D1%81%D0%B8%D0%B5_%D0%BD%D0%B0_%D0%BE%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D1%83_%D0%BF%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D1%85_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85_%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8F.pdf" target="_blank">обработку персональных данных</a>.</div>
+                                                                                <input type="hidden" name="ids[]" value="13">
+                                            <input type="hidden" name="ids[]" value=" 14">
+                                                </form>
+            <div class="mos-main_newsletterSuccess" style="display: none">
+                <div class="mos-main_newsletterSuccessIcon"><img role="img" src="/build/images/mosvolonter_new/svg/success.svg" alt=""></div>
+                <div class="mos-main_newsletterSuccessText">Благодарим за подписку, первое письмо уже направлено на вашу электронную почту.</div>
+            </div>
+        </div>
+    </div>
+    <div class="mos-main_newsletterImg"><img role="img" src="/build/images/mosvolonter_new/svg/newsletter.svg" alt=""></div>
+</div>
+
+                        <?xml encoding="UTF-8"><div class="mos-main_network">
+  <h3>Присоединяйтесь к нам в соцсетях</h3>
+  <div>
+    <div class="mos-main_networkItem">
+      <a style="max-width: 100%" href="/redirect/check?url=https%3A%2F%2Ft.me%2Fmosvol" class="mos-main_networkItemBtn mos-main_networkItemBtn--telegram" rel="noopener noreferrer"><span>Telegram</span></a>
+      <!-- <div class="mos-main_networkItemCount">22+ тыс.</div> -->
+    </div>
+    <div class="mos-main_networkItem">
+      <a style="max-width: 100%" href="/redirect/check?url=https%3A%2F%2Fvk.com%2Fmosvolonter" class="mos-main_networkItemBtn mos-main_networkItemBtn--vk" rel="noopener noreferrer"><span>Вконтакте</span></a>
+     <!-- <div class="mos-main_networkItemCount">57,6+ тыс.</div> -->
+    </div>
+  </div>
+</div>
+
+                    </section>
+                </div>
+            </div>
+        </main>
+        <footer>
+    <div class="mos-footer">
+        <div class="mos-base_container">
+            <div class="mos-footer_wrap">
+                <div class="mos-footer_info">
+                    <div class="mos-footer_infoBlock">
+                        <h3 class="mos-footer_infoTitle"><?xml encoding="UTF-8"><p>Ресурсный центр  «Мосволонтёр»
+
+
+
+
+            
+</p>
+</h3>
+                        <div class="mos-footer_infoAddress">
+                            <?xml encoding="UTF-8"><p>125040, Москва, Ленинградский пр., д. 5, стр. 1<br>
+ГБУ города Москвы «Мосволонтёр»<br>
+<a href="tel:+74997226990">+7 (499) 722-69-90</a>
+</p><div class="mos-footer_infoMail"><a href="mailto:info@mosvolonter.ru">info@mosvolonter.ru</a></div>
+
+                        </div>
+                    </div>
+                    <div class="mos-footer_infoBlock">
+                        <div class="mos-footer_infoNetworks">
+                            <?xml encoding="UTF-8"><a href="/redirect/check?url=https%3A%2F%2Ft.me%2Fmosvol" class="mos-footer_infoNetwork telegram" rel="noopener noreferrer"></a><a href="/redirect/check?url=https%3A%2F%2Fvk.com%2Fmosvolonter" class="mos-footer_infoNetwork vk" rel="noopener noreferrer"></a><!-- <a href="" class="mos-footer_infoNetwork ok"></a> -->
+
+                        </div>
+                        <div class="mos-footer_infoLinks">
+                            <?xml encoding="UTF-8"><div class="mos-footer_infoLink"><a href="/redirect/check?url=https%3A%2F%2Fwww.mos.ru%2Fkos%2F" rel="noopener noreferrer">Комитет общественных связей и молодёжной политики города Москвы</a></div><div class="mos-footer_infoLink"><a href="/redirect/check?url=https%3A%2F%2Fwww.mos.ru%2F" rel="noopener noreferrer">Правительство Москвы</a></div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="mos-footer_menu">
+                    <div class="mos-footer_menuItem">
+                        <?xml encoding="UTF-8"><div class="mos-footer_menuItemTitle">Волонтёрам</div><ul>
+                                    <li class="">
+                    <a class="" href="/events">
+                        Мероприятия
+                    </a>
+                </li>
+                                                <li class="">
+                    <a class="" href="/programs">
+                        Направления волонтёрства
+                    </a>
+                </li>
+                                                <li class="">
+                    <a class="" href="/education">
+                        Обучение
+                    </a>
+                </li>
+                       </ul>
+
+                    </div>
+                    <div class="mos-footer_menuItem">
+                        <?xml encoding="UTF-8"><div class="mos-footer_menuItemTitle">Организациям</div><ul>
+                                    <li class="">
+                    <a class="" href="/for-partners/for-partners-stat-partnerom?form_builder_subject=20&form_builder_form=7641">
+                        Подача заявки на партнёрство
+                    </a>
+                </li>
+                                                <li class="">
+                    <a class="" href="/for-partners#services">
+                        Сервисы для партнёров
+                    </a>
+                </li>
+                       </ul>
+
+                    </div>
+                    <div class="mos-footer_menuItem">
+                        <?xml encoding="UTF-8"><div class="mos-footer_menuItemTitle">О центре</div><ul>
+                                    <li class="">
+                    <a class="" href="/#about">
+                        О нас
+                    </a>
+                </li>
+                                                <li class="">
+                    <a class="" href="/news">
+                        Новости
+                    </a>
+                </li>
+                                                <li class="">
+                    <a class="" href="/doc">
+                        Документы
+                    </a>
+                </li>
+                                                <li class="">
+                    <a class="" href="/contacts">
+                        Контакты
+                    </a>
+                </li>
+                                                <li class="">
+                    <a target="_blank" class="" href="/redirect/check?url=https%3A%2F%2Fmosvolonter.ismyteam.ru%2Fcareer" rel="noopener noreferrer">
+                        Вакансии
+                    </a>
+                </li>
+                       </ul>
+
+                    </div>
+                    <div class="mos-footer_menuItem">
+                        <?xml encoding="UTF-8"><div class="mos-footer_menuItemTitle">Помощь</div><ul>
+                                    <li class="">
+                    <a class="" href="/feedback">
+                        Обратная связь
+                    </a>
+                </li>
+                       </ul>
+
+                    </div>
+                </div>
+            </div>
+            <div class="mos-footer_copyright">
+                <div class="mos-footer_copyrightLinks">
+                    <?xml encoding="UTF-8"><a href="/doc?id_19082=117" target="_blank">Соглашение о пользовании информационными системами и ресурсами города Москвы</a><a href="/redirect/check?url=https%3A%2F%2Fwww.mos.ru%2Fdit%2Fdocuments%2Finformatcionnaia-bezopasnost%2Fview%2F274898220%2F" target="_blank" rel="noopener noreferrer">Политика обработки персональных данных</a>
+
+                </div>
+                <div class="mos-footer_copyrightText"><?xml encoding="UTF-8"><p>© ГБУ города Москвы «Мосволонтёр», 2026
+
+
+
+
+            
+</p>
+</div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<div class="mos-base_modal mos-base_modal--link" id="redirectModal">
+    <div class="mos-base_modalInner" style='max-width: 512px;'>
+        <div class="mos-base_modalClose js-redirect-close"></div>
+        <div class='h2'>Вы переходите на другой сайт</div>
+        <p>Вы переходите на внешний ресурс. Будьте осторожны при вводе личных данных.<br>
+            Безопасность сторонних платформ не обеспечивается Департаментом информационных технологий города Москвы.</p>
+        <div class='mos-base_modalBtn'>
+            <a href="" target="_blank" class="mos-base_btn mos-base_btn--blue js-redirect-link">Продолжить</a>
+            <button type="button" class="mos-base_btn mos-base_btn--white js-redirect-close">Отменить</button>
+        </div>
+    </div>
+</div>
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+    // todo: заменить на реальный счетчик. Либо пропихнуть в админку
+    window.YANDEX_METRIKA_ID = 88948905;
+
+    (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+        m[i].l=1*new Date();
+        for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+        k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+    (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+    ym(window.YANDEX_METRIKA_ID, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:false,
+        trackHash:true
+    });
+
+    window.sendEventToMetrika = (data, event = 'params') => {
+        if (!ym) {
+            console.error('Ошибка при инициализации: yandex-metrika не доступен')
+        }
+        ym(window.YANDEX_METRIKA_ID, event, {
+            Mosvol: data
+        });
+    }
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/88948905" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->    </div>
+
+                            
+    
+
+    <script src="/build/958.c952a431.js"></script><script src="/build/mosvolonter_new_app_footer.36ab35ac.js"></script>
+    <input type="hidden" id="site_technical_name" value="mosvolonter" />
+    <script src="/bundles/sudirauthorization/js/logout_detector.js"></script>
+</body>
+</html>
